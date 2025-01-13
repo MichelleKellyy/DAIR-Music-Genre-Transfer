@@ -23,7 +23,7 @@ def train():
             y_pred, mean, log_var = model(y)
 
             # Calculate loss
-            loss = losses.VAE_loss(y_pred, y, mean, log_var, args.latent_dim)
+            loss = losses.VAE_loss(y_pred, y, mean, log_var)
             total_loss += loss.item()
 
             # Backward pass
@@ -61,7 +61,7 @@ def val():
             y_pred, mean, log_var = model(y)
         
         # Calculate loss
-        loss = losses.VAE_loss(y_pred, y, mean, log_var, args.latent_dim)
+        loss = losses.VAE_loss(y_pred, y, mean, log_var)
         total_loss += loss.item()
 
     print(f"Val Loss: {total_loss / len(val_dataloader)}")
@@ -79,7 +79,7 @@ def test():
             y_pred, mean, log_var = model(y)
         
         # Calculate loss
-        loss = losses.VAE_loss(y_pred, y, mean, log_var, args.latent_dim)
+        loss = losses.VAE_loss(y_pred, y, mean, log_var)
         total_loss += loss.item()
 
         # Calculate metrics
@@ -115,3 +115,14 @@ if __name__ == '__main__':
         )
 
         train()
+
+    elif args.mode == 'test':
+        # Create test dataloader
+        test_dataset = get_dataset(args, split='test')
+        test_dataloader = DataLoader(
+            test_dataset,
+            batch_size = args.batch_size,
+            num_workers=4
+        )
+
+        test()
