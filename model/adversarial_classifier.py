@@ -10,10 +10,10 @@ class AdversarialClassifier(nn.Module):
         self.fc3 = nn.Linear(latent_dim, num_genres)
         self.dropout = nn.Dropout(0.3)
 
-def forward(self,z):
-    x = F.relu(self.fc1(z))
-    x = self.dropout(x)
-    x = F.relu(self.fc(x))
-    x = self.dropout(x)
-    x = self.fc3(x)
-    return x
+    def forward(self,z):
+        x = F.relu(self.fc1(z))
+        x = self.dropout(x)
+        x = F.relu(self.fc2(x))
+        x = self.dropout(x)
+        x = self.fc3(x)
+        return x

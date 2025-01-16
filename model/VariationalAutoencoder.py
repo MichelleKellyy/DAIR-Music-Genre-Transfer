@@ -1,6 +1,7 @@
 import torch
 from torch import nn
 import torch.nn.functional as F
+from adversarial_classifier import AdversarialClassifier
 
 class Encoder(nn.Module):
     def __init__(self, args):

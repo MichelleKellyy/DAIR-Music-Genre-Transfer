@@ -1,5 +1,7 @@
 import torch
+from torch import nn
 import torch.nn.functional as F
+from model.adversarial_classifier import AdversarialClassifier
 
 def VAE_loss(y_pred, y, mean, log_var):
     batch_size = y.shape[0]
@@ -7,3 +9,8 @@ def VAE_loss(y_pred, y, mean, log_var):
     kl_divergence = 0.5 * torch.sum(log_var.exp() * mean ** 2 - log_var - 1)
 
     return (bce + kl_divergence) / batch_size
+
+def A_loss(z, t_labels):
+    logits = AdversarialClassifier(z)
+    loss = nn.CrossEntropyLoss(logits, t_labels) 
+    return loss
