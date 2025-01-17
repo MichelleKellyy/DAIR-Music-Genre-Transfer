@@ -11,6 +11,9 @@ df = df.drop(['caption', 'genre_prob', 'mood', 'mood_prob', 'key',
     'chord_summary', 'chord_summary_occurence', 'instrument_numbers_sorted',
     'all_chords', 'all_chords_timestamps', 'test_set'], axis = 1)
 
+# Drop genres under 10k
+df = df[df['genre'].str[0].isin(['electronic', 'pop', 'classical', 'rock'])]
+
 # Method to plot the genre distribution of the MIDI-Caps dataset
 def plot_genres(df, title):
     genre_count = df['genre'].value_counts()
@@ -27,18 +30,6 @@ df_first = df.copy()
 df_first['genre'] = df['genre'].str[0]
 plot_genres(df_first,
     "MIDI-Caps Genre Distribution With First Predicted Genre")
-
-# Plot genre distribution according to the second predicted genre
-df_second = df.copy()
-df_second['genre'] = df['genre'].str[1]
-plot_genres(df_second,
-    "MIDI-Caps Genre Distribution With Second Predicted Genre")
-
-# Plot genre distribution according to both predicted genres
-df_all = df.copy()
-df_all = pd.concat([pd.DataFrame(df_first), pd.DataFrame(df_second)])
-plot_genres(df_all,
-    "MIDI-Caps Genre Distribution With All Predicted Genres")
 
 # Method to plot the instrument distribution of the MIDI-Caps dataset
 def plot_instruments(df, title):
