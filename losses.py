@@ -12,5 +12,5 @@ def VAE_loss(y_pred, y, mean, log_var):
 
 def A_loss(z, t_labels):
     logits = AdversarialClassifier(z)
-    loss = nn.CrossEntropyLoss(logits, t_labels) 
+    loss = F.cross_entropy(logits, t_labels) 
     return loss

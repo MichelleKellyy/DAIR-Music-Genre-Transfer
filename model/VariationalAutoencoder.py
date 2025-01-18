@@ -2,6 +2,7 @@ import torch
 from torch import nn
 import torch.nn.functional as F
 from adversarial_classifier import AdversarialClassifier
+from losses import A_loss
 
 class Encoder(nn.Module):
     def __init__(self, args):
@@ -50,9 +51,11 @@ class VAE(nn.Module):
         self.latent_dim = args.latent_dim
 
         self.encoder = Encoder(args)
+        self.adversarial = AdversarialClassifier()
         self.decoder = Decoder(args)
 
     def forward(self, x):
+        A_loss(x)
         mean, log_var = self.encoder(x)
 
         sample = torch.randn(self.latent_dim).to(x.get_device())
