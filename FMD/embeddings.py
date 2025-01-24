@@ -61,3 +61,8 @@ if __name__ == "__main__":
 
     # Plot distributions
     plot_distributions(time_grid, time_gaussian, pitch_grid, pitch_gaussian, "AC_DC_-_Back_In_Black")
+
+
+
+
+# Whats Next: Start making distrubutions for different genres and learn to balance it out. Get ranges, get cosine comparison to see.
