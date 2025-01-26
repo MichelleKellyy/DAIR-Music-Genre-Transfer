@@ -1,0 +1,1991 @@
+[
+    {
+        "location": "13ad61f0cef919bc069175d0b0ce2437.mid",
+        "genre": "electronic",
+        "key": "C minor",
+        "time_signature": "4/4",
+        "tempo": 124.0,
+        "duration": 103,
+        "chord_summary": [
+            "Gm",
+            "Dm",
+            "F",
+            "C",
+            "Bb6"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Drums",
+            "Bass",
+            "Brass",
+            "Choir"
+        ]
+    },
+    {
+        "location": "1bba32941542752d1f937ea03bb83cd9.mid",
+        "genre": "electronic",
+        "key": "F# major",
+        "time_signature": "4/4",
+        "tempo": 115.0,
+        "duration": 149,
+        "chord_summary": [
+            "Abm",
+            "F#6",
+            "Abm7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Organ",
+            "Strings",
+            "Acoustic Guitar",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "10fd728b95d931b4ed9b80472e0bedec.mid",
+        "genre": "electronic",
+        "key": "C# minor",
+        "time_signature": "4/4",
+        "tempo": 132.0,
+        "duration": 90,
+        "chord_summary": [
+            "Fm",
+            "C#",
+            "Eb"
+        ],
+        "instrument_summary": [
+            "Organ",
+            "Strings",
+            "Strings",
+            "Bass",
+            "Piano"
+        ]
+    },
+    {
+        "location": "112139e8b17be9cae1bd14df56e52f14.mid",
+        "genre": "electronic",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 136.0,
+        "duration": 14,
+        "chord_summary": [
+            "A",
+            "F/A"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "1ae5e3999b6beaf5ca7e3680b87e7181.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 170.0,
+        "duration": 126,
+        "chord_summary": [
+            "C",
+            "F",
+            "G"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Piano",
+            "Drums",
+            "Bass",
+            "Xylophone"
+        ]
+    },
+    {
+        "location": "17dc5572a76f8e495751ef74ba19820d.mid",
+        "genre": "electronic",
+        "key": "B minor",
+        "time_signature": "4/4",
+        "tempo": 88.0,
+        "duration": 262,
+        "chord_summary": [
+            "B",
+            "A",
+            "Bm",
+            "A"
+        ],
+        "instrument_summary": [
+            "Synths",
+            "Drums",
+            "Bass",
+            "Synths",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1bdbd7f3ac595612d926d46206fff0c0.mid",
+        "genre": "electronic",
+        "key": "D minor",
+        "time_signature": "4/4",
+        "tempo": 166.0,
+        "duration": 51,
+        "chord_summary": [
+            "C6",
+            "Dm",
+            "Bb6",
+            "C",
+            "F"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "1dfe6bae8cdfb5d7e48f1545a048f4a4.mid",
+        "genre": "electronic",
+        "key": "Ab major",
+        "time_signature": "4/4",
+        "tempo": 127.0,
+        "duration": 221,
+        "chord_summary": [
+            "E",
+            "Abm",
+            "C#m",
+            "Ebm"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Brass",
+            "Strings",
+            "Bass",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1fd3b87d8252e450ed3656a2e9317e4b.mid",
+        "genre": "electronic",
+        "key": "Ab major",
+        "time_signature": "4/4",
+        "tempo": 97.0,
+        "duration": 247,
+        "chord_summary": [
+            "Ab",
+            "Cm",
+            "Fm",
+            "Cm"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Synths",
+            "Choir",
+            "Xylophone",
+            "Bass"
+        ]
+    },
+    {
+        "location": "111943744b5f9873e3ad5ce3a0b6f384.mid",
+        "genre": "electronic",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 248,
+        "chord_summary": [
+            "Am",
+            "Em7",
+            "Am",
+            "G",
+            "F"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Piano",
+            "Drums",
+            "Strings",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "12773908fb6cfac986c800a41c685759.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 173,
+        "chord_summary": [
+            "A",
+            "Dm",
+            "G",
+            "C",
+            "Dm"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Strings",
+            "Choir",
+            "Bass",
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "13612660d66834423c56287e255b13fc.mid",
+        "genre": "electronic",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 126.0,
+        "duration": 243,
+        "chord_summary": [
+            "Bbmaj7",
+            "Gm",
+            "Am7",
+            "Dm7",
+            "E7"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Strings",
+            "Bass",
+            "Piano",
+            "Strings"
+        ]
+    },
+    {
+        "location": "1dd5c1a76a0b11fcb47badbe5cee6224.mid",
+        "genre": "electronic",
+        "key": "Ab major",
+        "time_signature": "4/4",
+        "tempo": 106.0,
+        "duration": 305,
+        "chord_summary": [
+            "Ab",
+            "Bb",
+            "Eb"
+        ],
+        "instrument_summary": [
+            "Woodwinds",
+            "Piano",
+            "Drums",
+            "Piano",
+            "Bass"
+        ]
+    },
+    {
+        "location": "105c49b613fa70d8509eb8e8cab1fdfc.mid",
+        "genre": "electronic",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 165.0,
+        "duration": 157,
+        "chord_summary": [
+            "A",
+            "Fmaj7"
+        ],
+        "instrument_summary": [
+            "Drums",
+            "Synths",
+            "Electric Guitar",
+            "Brass",
+            "Bass"
+        ]
+    },
+    {
+        "location": "138124142ba61857278d0b8f8afb2f9d.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 153.0,
+        "duration": 109,
+        "chord_summary": [
+            "G",
+            "C"
+        ],
+        "instrument_summary": [
+            "Drums",
+            "Brass",
+            "Bass",
+            "Piano",
+            "Xylophone"
+        ]
+    },
+    {
+        "location": "164138357d5e68df36dd69f8aae5aa48.mid",
+        "genre": "electronic",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 156,
+        "chord_summary": [
+            "D",
+            "G",
+            "C"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Acoustic Guitar",
+            "Bass",
+            "Drums",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1aec30e35dbf3aa5b25f2c74e36954f7.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 272,
+        "chord_summary": [
+            "C",
+            "F6",
+            "G",
+            "Am",
+            "G"
+        ],
+        "instrument_summary": [
+            "Choir",
+            "Synths",
+            "Bass",
+            "Drums",
+            "Strings"
+        ]
+    },
+    {
+        "location": "1f180760215410196914c1b45378f3cf.mid",
+        "genre": "electronic",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 122,
+        "chord_summary": [
+            "F",
+            "Bbmaj7",
+            "Am",
+            "C",
+            "Bb6"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "10c5d4cf299c3a1e6193778f2df35619.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 138,
+        "chord_summary": [
+            "F",
+            "G7/B",
+            "C",
+            "Dm"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "13ea2070a2722fa08b51e2ef999183d0.mid",
+        "genre": "electronic",
+        "key": "E major",
+        "time_signature": "4/4",
+        "tempo": 82.0,
+        "duration": 191,
+        "chord_summary": [
+            "A",
+            "B",
+            "E"
+        ],
+        "instrument_summary": [
+            "Xylophone",
+            "Electric Guitar",
+            "Synths",
+            "Synths",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "1a2d93e76bf6f906e2ff27bada43d14b.mid",
+        "genre": "electronic",
+        "key": "A major",
+        "time_signature": "4/4",
+        "tempo": 93.0,
+        "duration": 164,
+        "chord_summary": [
+            "Dm",
+            "A",
+            "Dm",
+            "E"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Piano",
+            "Acoustic Guitar",
+            "Bass",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "1bbdd1ea543bf126d4e4fef58f9d834e.mid",
+        "genre": "electronic",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 74.0,
+        "duration": 191,
+        "chord_summary": [
+            "Bm",
+            "D6",
+            "E"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Bass",
+            "Drums",
+            "Acoustic Guitar",
+            "Synths"
+        ]
+    },
+    {
+        "location": "1d4a0c1845a73a3ed1f8d40ab88f575e.mid",
+        "genre": "electronic",
+        "key": "Bb minor",
+        "time_signature": "4/4",
+        "tempo": 87.0,
+        "duration": 229,
+        "chord_summary": [
+            "Bbmaj7",
+            "Ab",
+            "Bb",
+            "C#"
+        ],
+        "instrument_summary": [
+            "Drums",
+            "Drums",
+            "Strings",
+            "Synths",
+            "Bass"
+        ]
+    },
+    {
+        "location": "13cf6df777a92cac3cbf9eb93776cf94.mid",
+        "genre": "electronic",
+        "key": "E minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 580,
+        "chord_summary": [
+            "D",
+            "A7"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "1b562159896188ea16d5ad10c64ee8cc.mid",
+        "genre": "electronic",
+        "key": "B minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 133,
+        "chord_summary": [
+            "A",
+            "Bm"
+        ],
+        "instrument_summary": [
+            "Bass",
+            "Synths",
+            "Xylophone",
+            "Xylophone"
+        ]
+    },
+    {
+        "location": "1c13264442d86027af49d6ebc8756b61.mid",
+        "genre": "electronic",
+        "key": "E minor",
+        "time_signature": "4/4",
+        "tempo": 148.0,
+        "duration": 297,
+        "chord_summary": [
+            "Em",
+            "D",
+            "G6",
+            "Am7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Drums"
+        ]
+    },
+    {
+        "location": "128162059ca3806de117c35b2ebab9e0.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 104.0,
+        "duration": 311,
+        "chord_summary": [
+            "Dm",
+            "G7",
+            "C",
+            "F",
+            "C"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Acoustic Guitar",
+            "Drums",
+            "Bass",
+            "Piano"
+        ]
+    },
+    {
+        "location": "1bc2fdf5437b4bc7f10a74706966e7f0.mid",
+        "genre": "electronic",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 70.0,
+        "duration": 252,
+        "chord_summary": [
+            "D",
+            "D6",
+            "F#m",
+            "Em7"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Strings",
+            "Choir",
+            "Acoustic Guitar",
+            "Bass"
+        ]
+    },
+    {
+        "location": "137fefdf3839175c671b5d3431bb6dce.mid",
+        "genre": "electronic",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 144,
+        "chord_summary": [
+            "Bb",
+            "F7/A",
+            "Gdim",
+            "Bb",
+            "C7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Strings",
+            "Strings"
+        ]
+    },
+    {
+        "location": "18d5656abe3a5e3e5d62235b22adf7ee.mid",
+        "genre": "electronic",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 102.0,
+        "duration": 293,
+        "chord_summary": [
+            "Cmaj7",
+            "Bm7",
+            "Am7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Drums",
+            "Synths",
+            "Acoustic Guitar",
+            "Strings"
+        ]
+    },
+    {
+        "location": "16365a5d4978d09e4e3b611ca3f97282.mid",
+        "genre": "electronic",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 125.0,
+        "duration": 113,
+        "chord_summary": [
+            "F",
+            "C7",
+            "F",
+            "G",
+            "C"
+        ],
+        "instrument_summary": [
+            "Brass",
+            "Woodwinds",
+            "Brass",
+            "Brass",
+            "Brass"
+        ]
+    },
+    {
+        "location": "13afca91535a6ee902f922386e07223c.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 38,
+        "chord_summary": [
+            "C",
+            "G7",
+            "F",
+            "C",
+            "G7"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "13b1cca6f9d1fd2af70aa119d98a7025.mid",
+        "genre": "electronic",
+        "key": "E minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 139,
+        "chord_summary": [
+            "A",
+            "G",
+            "Em",
+            "A",
+            "G"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Drums",
+            "Strings",
+            "Strings",
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "1e2d886ab02f4b2b3c9e6711509460fe.mid",
+        "genre": "electronic",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 195,
+        "chord_summary": [
+            "Gmaj7",
+            "C/G"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Choir",
+            "Choir",
+            "Bass",
+            "Bass"
+        ]
+    },
+    {
+        "location": "14158f5d745aef87f9d8cff23f01a9fd.mid",
+        "genre": "electronic",
+        "key": "C# minor",
+        "time_signature": "4/4",
+        "tempo": 115.0,
+        "duration": 311,
+        "chord_summary": [
+            "E",
+            "B"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Strings",
+            "Brass",
+            "Choir",
+            "Synths"
+        ]
+    },
+    {
+        "location": "11a1625462e1041b428a5be258dc54f3.mid",
+        "genre": "electronic",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 72.0,
+        "duration": 237,
+        "chord_summary": [
+            "F",
+            "G",
+            "C"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Piano",
+            "Strings",
+            "Bass",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1358c1eb7e3e0ed245cd8b6d8025c0c6.mid",
+        "genre": "electronic",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 95.0,
+        "duration": 354,
+        "chord_summary": [
+            "Fm7",
+            "Bb"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Electric Guitar",
+            "Acoustic Guitar",
+            "Drums",
+            "Synths"
+        ]
+    },
+    {
+        "location": "172d92f612f858b562f74f96c616ec86.mid",
+        "genre": "electronic",
+        "key": "D minor",
+        "time_signature": "4/4",
+        "tempo": 94.0,
+        "duration": 215,
+        "chord_summary": [
+            "Am",
+            "Dm"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Acoustic Guitar",
+            "Drums",
+            "Bass"
+        ]
+    },
+    {
+        "location": "1d8d319980f8e536e5debd79064ac425.mid",
+        "genre": "electronic",
+        "key": "Ab major",
+        "time_signature": "4/4",
+        "tempo": 104.0,
+        "duration": 166,
+        "chord_summary": [
+            "Eb",
+            "Ab",
+            "C#"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "149854ac7bb74296cc4444543b638c2f.mid",
+        "genre": "electronic",
+        "key": "Eb major",
+        "time_signature": "4/4",
+        "tempo": 60.0,
+        "duration": 276,
+        "chord_summary": [
+            "Eb",
+            "Gm7",
+            "Cm7",
+            "Fm7"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Bass",
+            "Piano",
+            "Xylophone",
+            "Organ"
+        ]
+    },
+    {
+        "location": "15e268836579eaa6c29bcbd2ffaaecf0.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 94.0,
+        "duration": 54,
+        "chord_summary": [
+            "Em7",
+            "Am7",
+            "Dm7",
+            "Em7",
+            "Am7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Synths",
+            "Synths",
+            "Bass",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1b320823f8354b11c9458b452b84918e.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 138.0,
+        "duration": 197,
+        "chord_summary": [
+            "C",
+            "G",
+            "F",
+            "G"
+        ],
+        "instrument_summary": [
+            "Drums",
+            "Synths",
+            "Strings",
+            "Choir",
+            "Piano"
+        ]
+    },
+    {
+        "location": "1715705839b29fa3315a58c91f471904.mid",
+        "genre": "electronic",
+        "key": "Eb major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 232,
+        "chord_summary": [
+            "Ab",
+            "Eb",
+            "Gm",
+            "Fm",
+            "Bb"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Bass",
+            "Strings",
+            "Woodwinds",
+            "Brass"
+        ]
+    },
+    {
+        "location": "15a93387067eb4fc095bcdc09194ac9c.mid",
+        "genre": "electronic",
+        "key": "E major",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 135,
+        "chord_summary": [
+            "G/A",
+            "E",
+            "Cmaj7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Piano",
+            "Bass",
+            "Synths",
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "1a384817b0554c3d796636c3495fd52d.mid",
+        "genre": "electronic",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 91.0,
+        "duration": 240,
+        "chord_summary": [
+            "D",
+            "G",
+            "G6",
+            "C"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Brass",
+            "Drums",
+            "Bass",
+            "Choir"
+        ]
+    },
+    {
+        "location": "1a039d57b2877d81e482e5dc23cefdb9.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 118.0,
+        "duration": 224,
+        "chord_summary": [
+            "C6",
+            "Em",
+            "F",
+            "Em",
+            "F"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Acoustic Guitar",
+            "Piano",
+            "Strings",
+            "Bass"
+        ]
+    },
+    {
+        "location": "1aa2d0f6bca5574c7f935f6ea9ce32ce.mid",
+        "genre": "electronic",
+        "key": "E minor",
+        "time_signature": "4/4",
+        "tempo": 84.0,
+        "duration": 250,
+        "chord_summary": [
+            "Em6",
+            "F#",
+            "Em"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Bass",
+            "Strings",
+            "Synths",
+            "Drums"
+        ]
+    },
+    {
+        "location": "177e6dfee2e6d7f2cc93da9b3fbece37.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 25.0,
+        "duration": 105,
+        "chord_summary": [
+            "F",
+            "Dm",
+            "G7"
+        ],
+        "instrument_summary": [
+            "Woodwinds",
+            "Xylophone",
+            "Woodwinds",
+            "Woodwinds",
+            "Synths"
+        ]
+    },
+    {
+        "location": "1c52fbc135c2793c413a764c83b8f8ae.mid",
+        "genre": "electronic",
+        "key": "E major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 109,
+        "chord_summary": [
+            "C#7",
+            "F#",
+            "A",
+            "B"
+        ],
+        "instrument_summary": [
+            "Organ"
+        ]
+    },
+    {
+        "location": "134b3f5b739793ccc1fa3f4857edcb9d.mid",
+        "genre": "electronic",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 125.0,
+        "duration": 155,
+        "chord_summary": [
+            "C",
+            "G",
+            "F"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Synths",
+            "Organ",
+            "Electric Guitar",
+            "Strings"
+        ]
+    },
+    {
+        "location": "1519d53b939e1e4a11ec0cb2c71327ee.mid",
+        "genre": "electronic",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 156.0,
+        "duration": 206,
+        "chord_summary": [
+            "D7",
+            "A6",
+            "E",
+            "A6"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Electric Guitar",
+            "Electric Guitar",
+            "Bass",
+            "Strings"
+        ]
+    },
+    {
+        "location": "12673f987e1a57a9e57a5957938ea453.mid",
+        "genre": "electronic",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 114.0,
+        "duration": 246,
+        "chord_summary": [
+            "F7",
+            "Gm7",
+            "Am7b5",
+            "Bb",
+            "Gm"
+        ],
+        "instrument_summary": [
+            "Organ",
+            "Drums",
+            "Organ",
+            "Piano",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1685c5df5657c41f56925ac129a576e2.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 38.0,
+        "duration": 313,
+        "chord_summary": [
+            "F",
+            "A",
+            "F",
+            "G"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Bass",
+            "Brass",
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "15ded779e9ec5aa9f3c79b4b27c9b290.mid",
+        "genre": "electronic",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 77.0,
+        "duration": 124,
+        "chord_summary": [
+            "Am7",
+            "Em7",
+            "Am7",
+            "G6"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Acoustic Guitar",
+            "Bass",
+            "Xylophone"
+        ]
+    },
+    {
+        "location": "137231217ffe9003d827d0089b7fdc1a.mid",
+        "genre": "electronic",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 184.0,
+        "duration": 188,
+        "chord_summary": [
+            "Ebmaj7",
+            "Ab7",
+            "Bb/D"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "185179f7dad1cc9b8ca58b2e0026908e.mid",
+        "genre": "electronic",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 150.0,
+        "duration": 13,
+        "chord_summary": [
+            "Am",
+            "Dm",
+            "A",
+            "Am7",
+            "Dm"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "12eafbd1632f9975db71a0a43defabbb.mid",
+        "genre": "electronic",
+        "key": "E minor",
+        "time_signature": "4/4",
+        "tempo": 96.0,
+        "duration": 300,
+        "chord_summary": [
+            "A7",
+            "G",
+            "E",
+            "D",
+            "E"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Choir"
+        ]
+    },
+    {
+        "location": "1c26b64a9ab1bf8d4a2b415c8a5ab677.mid",
+        "genre": "electronic",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 126.0,
+        "duration": 219,
+        "chord_summary": [
+            "C",
+            "G",
+            "D"
+        ],
+        "instrument_summary": [
+            "Brass",
+            "Strings",
+            "Piano",
+            "Piano",
+            "Bass"
+        ]
+    },
+    {
+        "location": "10cc00966e4008451a06b9ce26a8e93f.mid",
+        "genre": "electronic",
+        "key": "F# major",
+        "time_signature": "4/4",
+        "tempo": 74.0,
+        "duration": 383,
+        "chord_summary": [
+            "F#",
+            "Ebm",
+            "C#",
+            "F#",
+            "Ebm"
+        ],
+        "instrument_summary": [
+            "Woodwinds",
+            "Strings",
+            "Brass",
+            "Piano",
+            "Brass"
+        ]
+    },
+    {
+        "location": "16342189eabe4a760ff35f2b3a8de044.mid",
+        "genre": "electronic",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 87.0,
+        "duration": 286,
+        "chord_summary": [
+            "Em7",
+            "C",
+            "D"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Strings",
+            "Synths",
+            "Brass",
+            "Synths"
+        ]
+    },
+    {
+        "location": "172e932f2f66182e59e605e2a632eb28.mid",
+        "genre": "electronic",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 134.0,
+        "duration": 25,
+        "chord_summary": [
+            "F6",
+            "Bb/D",
+            "C7/E",
+            "Bb/F",
+            "Am7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Bass",
+            "Brass",
+            "Brass",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1fa72c6a86c91a7af9e98916f5b26cb1.mid",
+        "genre": "electronic",
+        "key": "B minor",
+        "time_signature": "4/4",
+        "tempo": 130.0,
+        "duration": 31,
+        "chord_summary": [
+            "Bm7",
+            "Gmaj7",
+            "A",
+            "Bm7",
+            "Gmaj7"
+        ],
+        "instrument_summary": [
+            "Drums",
+            "Synths",
+            "Electric Guitar",
+            "Bass"
+        ]
+    },
+    {
+        "location": "100279e721434f545ee37ea4cb7a70bd.mid",
+        "genre": "electronic",
+        "key": "B minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 288,
+        "chord_summary": [
+            "D",
+            "F#m",
+            "B",
+            "Em7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Xylophone",
+            "Strings",
+            "Bass"
+        ]
+    },
+    {
+        "location": "11acb74e41fd9f1fc2b22479a74b5818.mid",
+        "genre": "electronic",
+        "key": "Ab major",
+        "time_signature": "4/4",
+        "tempo": 145.0,
+        "duration": 13,
+        "chord_summary": [
+            "Ab",
+            "Bb",
+            "Ab",
+            "Bb",
+            "C"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "11861d96019bf24e8cdd5557b8ef5cb0.mid",
+        "genre": "electronic",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 132,
+        "chord_summary": [
+            "Bb",
+            "F7"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Brass",
+            "Organ",
+            "Choir",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1f15c1bb585a35e98dafe2647bfdd56c.mid",
+        "genre": "electronic",
+        "key": "D minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 683,
+        "chord_summary": [
+            "Dm",
+            "C#dim",
+            "Dm",
+            "A7"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Acoustic Guitar",
+            "Bass",
+            "Synths",
+            "Drums"
+        ]
+    },
+    {
+        "location": "192194a32d648a170edd218ad2e44913.mid",
+        "genre": "electronic",
+        "key": "C# minor",
+        "time_signature": "4/4",
+        "tempo": 124.0,
+        "duration": 205,
+        "chord_summary": [
+            "C#m",
+            "A",
+            "E"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Drums",
+            "Bass",
+            "Synths"
+        ]
+    },
+    {
+        "location": "1d222adb59fbf796575fdc557eee2d9c.mid",
+        "genre": "electronic",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 109.0,
+        "duration": 312,
+        "chord_summary": [
+            "Em7",
+            "Cmaj7",
+            "G"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Strings",
+            "Bass",
+            "Drums",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "155b67ea7184d0957ef0c57a01700c5b.mid",
+        "genre": "electronic",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 196,
+        "chord_summary": [
+            "F",
+            "C/E",
+            "Dm",
+            "F/C",
+            "Bb"
+        ],
+        "instrument_summary": [
+            "Bass",
+            "Strings",
+            "Choir",
+            "Choir",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "153ca74dd2a1eb13ee635d110a243e79.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 91.0,
+        "duration": 46,
+        "chord_summary": [
+            "C",
+            "F"
+        ],
+        "instrument_summary": [
+            "Drums",
+            "Piano",
+            "Organ",
+            "Synths",
+            "Bass"
+        ]
+    },
+    {
+        "location": "1c631c88d76521d8dd727cd0a385cb23.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 64,
+        "chord_summary": [
+            "D",
+            "Bb",
+            "Dm7",
+            "D",
+            "Bb"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "11afd7e016c9d9fecf9163b1c784a80a.mid",
+        "genre": "electronic",
+        "key": "E minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 205,
+        "chord_summary": [
+            "Bm",
+            "Em"
+        ],
+        "instrument_summary": [
+            "Synths",
+            "Electric Guitar",
+            "Bass",
+            "Strings",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1bc33aaa04c1f62ca9e88dc24ee29a5f.mid",
+        "genre": "electronic",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 93,
+        "chord_summary": [
+            "C#",
+            "F7",
+            "Bbm",
+            "C7",
+            "F"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings"
+        ]
+    },
+    {
+        "location": "1cb1d6d2537669937eab65d4b71775e6.mid",
+        "genre": "electronic",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 127.0,
+        "duration": 252,
+        "chord_summary": [
+            "Bb",
+            "F",
+            "C"
+        ],
+        "instrument_summary": [
+            "Synths",
+            "Strings",
+            "Brass",
+            "Synths",
+            "Bass"
+        ]
+    },
+    {
+        "location": "122ba52a3ee82285577e3369ca384680.mid",
+        "genre": "electronic",
+        "key": "C# minor",
+        "time_signature": "4/4",
+        "tempo": 48.0,
+        "duration": 196,
+        "chord_summary": [
+            "A",
+            "Ab",
+            "C#",
+            "A",
+            "Ab"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Bass"
+        ]
+    },
+    {
+        "location": "195307b6ca57287d544a14cefe0648d1.mid",
+        "genre": "electronic",
+        "key": "F# minor",
+        "time_signature": "4/4",
+        "tempo": 162.0,
+        "duration": 384,
+        "chord_summary": [
+            "A",
+            "Bm7",
+            "C#m7"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Piano",
+            "Acoustic Guitar",
+            "Piano",
+            "Strings"
+        ]
+    },
+    {
+        "location": "136d08ee2331bd4c05fd9c548014e0e2.mid",
+        "genre": "electronic",
+        "key": "B major",
+        "time_signature": "4/4",
+        "tempo": 58.0,
+        "duration": 218,
+        "chord_summary": [
+            "B",
+            "C#",
+            "Abm7",
+            "Emaj7",
+            "C#m7"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Piano",
+            "Bass",
+            "Drums",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "11c7dad67a53b0525449a956f426eb81.mid",
+        "genre": "electronic",
+        "key": "D minor",
+        "time_signature": "4/4",
+        "tempo": 71.0,
+        "duration": 125,
+        "chord_summary": [
+            "C#m",
+            "D",
+            "A",
+            "Bm7",
+            "E7"
+        ],
+        "instrument_summary": [
+            "Choir",
+            "Electric Guitar",
+            "Bass",
+            "Strings",
+            "Xylophone"
+        ]
+    },
+    {
+        "location": "1a68889a40a5349e8fb6b3a29e681269.mid",
+        "genre": "electronic",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 471,
+        "chord_summary": [
+            "D",
+            "G"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Synths",
+            "Choir",
+            "Choir"
+        ]
+    },
+    {
+        "location": "11438977623db3f9ddd7ef0d1d012f22.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 76.0,
+        "duration": 168,
+        "chord_summary": [
+            "G",
+            "Gaug",
+            "Em",
+            "G7",
+            "C"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Brass",
+            "Strings",
+            "Bass",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1fc99c6776860dbec8fe64dd4cc52e73.mid",
+        "genre": "electronic",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 123,
+        "chord_summary": [
+            "G6",
+            "F#",
+            "E7",
+            "Em",
+            "F#"
+        ],
+        "instrument_summary": [
+            "Synths",
+            "Electric Guitar",
+            "Synths",
+            "Drums"
+        ]
+    },
+    {
+        "location": "106565f55d69bfcf15898e6109448d04.mid",
+        "genre": "electronic",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 105.0,
+        "duration": 286,
+        "chord_summary": [
+            "Bb",
+            "F7"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Strings",
+            "Acoustic Guitar",
+            "Bass",
+            "Choir"
+        ]
+    },
+    {
+        "location": "1d816c469f0fffe79d51334565dd7f87.mid",
+        "genre": "electronic",
+        "key": "B minor",
+        "time_signature": "4/4",
+        "tempo": 148.0,
+        "duration": 198,
+        "chord_summary": [
+            "F#",
+            "E",
+            "D"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "1b08951a73e85152f69bf20708ff3c7d.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 208,
+        "chord_summary": [
+            "F",
+            "C",
+            "G",
+            "C"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Brass",
+            "Acoustic Guitar",
+            "Bass",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "101be9f8376103b4f22b77c3bb8ea067.mid",
+        "genre": "electronic",
+        "key": "Eb major",
+        "time_signature": "4/4",
+        "tempo": 125.0,
+        "duration": 12,
+        "chord_summary": [
+            "Fm",
+            "Eb",
+            "C#",
+            "Eb",
+            "F"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Bass",
+            "Synths",
+            "Drums",
+            "Strings"
+        ]
+    },
+    {
+        "location": "1fc0484706a2b2bb7cd68f6e0d4a8a3a.mid",
+        "genre": "electronic",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 150,
+        "chord_summary": [
+            "Dm",
+            "Cmaj7",
+            "Bm7b5/A"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "11616e428ebb9156f6d65d9b61d64905.mid",
+        "genre": "electronic",
+        "key": "A major",
+        "time_signature": "4/4",
+        "tempo": 130.0,
+        "duration": 177,
+        "chord_summary": [
+            "E",
+            "A",
+            "D",
+            "E",
+            "A"
+        ],
+        "instrument_summary": [
+            "Brass",
+            "Acoustic Guitar",
+            "Brass",
+            "Strings",
+            "Strings"
+        ]
+    },
+    {
+        "location": "155ea03e32c2204f6395e5c96cca6ab6.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 113.0,
+        "duration": 229,
+        "chord_summary": [
+            "C",
+            "D6"
+        ],
+        "instrument_summary": [
+            "Woodwinds",
+            "Electric Guitar",
+            "Bass",
+            "Strings",
+            "Drums"
+        ]
+    },
+    {
+        "location": "10ec5ed089d313bbf09eb113425f2e33.mid",
+        "genre": "electronic",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 125.0,
+        "duration": 156,
+        "chord_summary": [
+            "D",
+            "G",
+            "D",
+            "A"
+        ],
+        "instrument_summary": [
+            "Drums",
+            "Electric Guitar",
+            "Brass",
+            "Woodwinds",
+            "Xylophone"
+        ]
+    },
+    {
+        "location": "1da875684322d73c23650dc62a0f270a.mid",
+        "genre": "electronic",
+        "key": "A major",
+        "time_signature": "4/4",
+        "tempo": 132.0,
+        "duration": 153,
+        "chord_summary": [
+            "A",
+            "E"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Electric Guitar",
+            "Bass",
+            "Organ",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1412384ad3c6e393ed760ba5139cb281.mid",
+        "genre": "electronic",
+        "key": "F minor",
+        "time_signature": "4/4",
+        "tempo": 160.0,
+        "duration": 252,
+        "chord_summary": [
+            "Cm",
+            "Fm"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Strings",
+            "Drums",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1e25576fe9951eed982931ab89cedc48.mid",
+        "genre": "electronic",
+        "key": "Eb major",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 370,
+        "chord_summary": [
+            "Eb",
+            "Bb7",
+            "Eb",
+            "Bb"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Brass",
+            "Brass",
+            "Brass",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1735d02a29417c08d9676aabae53258c.mid",
+        "genre": "electronic",
+        "key": "E minor",
+        "time_signature": "4/4",
+        "tempo": 132.0,
+        "duration": 286,
+        "chord_summary": [
+            "Em",
+            "G",
+            "A"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Synths",
+            "Drums",
+            "Bass",
+            "Strings"
+        ]
+    },
+    {
+        "location": "15551f613f0c5353e4bbe5be1e162a1a.mid",
+        "genre": "electronic",
+        "key": "F# major",
+        "time_signature": "4/4",
+        "tempo": 72.0,
+        "duration": 277,
+        "chord_summary": [
+            "C#",
+            "Ab",
+            "Bbm",
+            "C#",
+            "F#"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Acoustic Guitar",
+            "Strings",
+            "Strings",
+            "Organ"
+        ]
+    },
+    {
+        "location": "11124920e660008c6b4a835fa0b4f661.mid",
+        "genre": "electronic",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 163.0,
+        "duration": 89,
+        "chord_summary": [
+            "D7",
+            "G6",
+            "Dm7",
+            "G7"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Drums",
+            "Bass",
+            "Xylophone",
+            "Choir"
+        ]
+    },
+    {
+        "location": "1f5784623aff63e70782047dec27cd3b.mid",
+        "genre": "electronic",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 50.0,
+        "duration": 271,
+        "chord_summary": [
+            "C",
+            "F",
+            "C7",
+            "F"
+        ],
+        "instrument_summary": [
+            "Choir"
+        ]
+    },
+    {
+        "location": "15cd75cb5d3862df879e24c2f2f2f127.mid",
+        "genre": "electronic",
+        "key": "D minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 215,
+        "chord_summary": [
+            "E",
+            "A",
+            "Dm"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Brass",
+            "Brass",
+            "Woodwinds",
+            "Synths"
+        ]
+    },
+    {
+        "location": "148c6f89b90f8e0583e121ab2e315048.mid",
+        "genre": "electronic",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 73.0,
+        "duration": 208,
+        "chord_summary": [
+            "G",
+            "D"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Piano",
+            "Organ",
+            "Drums",
+            "Bass"
+        ]
+    },
+    {
+        "location": "1617555dc9e4216007cdb6a3c60f8734.mid",
+        "genre": "electronic",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 52,
+        "chord_summary": [
+            "Am",
+            "Dm",
+            "G",
+            "Cmaj7",
+            "F"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "15cea3a334a958784a5acddbc6818dee.mid",
+        "genre": "electronic",
+        "key": "Eb minor",
+        "time_signature": "4/4",
+        "tempo": 90.0,
+        "duration": 326,
+        "chord_summary": [
+            "C#",
+            "Ebm",
+            "F#"
+        ],
+        "instrument_summary": [
+            "Synths",
+            "Synths",
+            "Drums",
+            "Xylophone"
+        ]
+    }
+]

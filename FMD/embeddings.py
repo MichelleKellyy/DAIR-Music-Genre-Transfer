@@ -54,13 +54,13 @@ def plot_distributions(time_grid, time_gaussian, pitch_grid, pitch_gaussian, fil
 # Example usage
 if __name__ == "__main__":
     # Path to a single MIDI file
-    midi_file_path = "data/AC_DC_-_Back_In_Black.mid"
+    midi_file_path = "F:/dataset/1f94f64f72af98fd92f206293b281f6f.mid"
 
     # Extract distributions
     time_grid, time_gaussian, pitch_grid, pitch_gaussian = extract_distributions(midi_file_path)
 
     # Plot distributions
-    plot_distributions(time_grid, time_gaussian, pitch_grid, pitch_gaussian, "AC_DC_-_Back_In_Black")
+    plot_distributions(time_grid, time_gaussian, pitch_grid, pitch_gaussian, "1f94f64f72af98fd92f206293b281f6f.mid")
 
 
 

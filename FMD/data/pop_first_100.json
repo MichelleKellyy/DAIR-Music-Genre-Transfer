@@ -1,0 +1,2023 @@
+[
+    {
+        "location": "180b3a492c1c1a46d005e762d62b9aa4.mid",
+        "genre": "pop",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 96.0,
+        "duration": 204,
+        "chord_summary": [
+            "A7",
+            "D",
+            "Em7",
+            "A7",
+            "D"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1aab9c0822fc60f8efeade592f27cf12.mid",
+        "genre": "pop",
+        "key": "F minor",
+        "time_signature": "4/4",
+        "tempo": 96.0,
+        "duration": 98,
+        "chord_summary": [
+            "Bb",
+            "Cm7",
+            "Abmaj7",
+            "Bb",
+            "Cm7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Bass",
+            "Bass",
+            "Drums",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "1e864005fcc8f7acd3acc4227666dd04.mid",
+        "genre": "pop",
+        "key": "Eb minor",
+        "time_signature": "4/4",
+        "tempo": 101.0,
+        "duration": 247,
+        "chord_summary": [
+            "Ebm7",
+            "Bb7",
+            "B7",
+            "Bb7",
+            "A7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Brass",
+            "Piano",
+            "Bass",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "193f6da78a623ece7593aa129c501a4f.mid",
+        "genre": "pop",
+        "key": "B major",
+        "time_signature": "4/4",
+        "tempo": 166.0,
+        "duration": 166,
+        "chord_summary": [
+            "A6",
+            "B",
+            "E6",
+            "B"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Acoustic Guitar",
+            "Drums",
+            "Electric Guitar",
+            "Bass"
+        ]
+    },
+    {
+        "location": "13e6a44bba523a2f63a2de320dd657d1.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 194,
+        "chord_summary": [
+            "Fm6",
+            "D7/F#",
+            "Fm6",
+            "G7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Bass",
+            "Brass",
+            "Brass"
+        ]
+    },
+    {
+        "location": "12e83360400c28a046cb64109c77f05c.mid",
+        "genre": "pop",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 32,
+        "chord_summary": [
+            "F",
+            "C"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Organ",
+            "Piano",
+            "Organ",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1a98ef3344de97835c9f618eeab9e2cf.mid",
+        "genre": "pop",
+        "key": "Bb minor",
+        "time_signature": "4/4",
+        "tempo": 126.0,
+        "duration": 205,
+        "chord_summary": [
+            "Bbm",
+            "Eb",
+            "Fm7",
+            "C#"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "15ee0655019df1ecf13309a07742cca9.mid",
+        "genre": "pop",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 76.0,
+        "duration": 231,
+        "chord_summary": [
+            "G",
+            "C",
+            "D",
+            "G",
+            "C"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Electric Guitar",
+            "Choir",
+            "Electric Guitar",
+            "Strings"
+        ]
+    },
+    {
+        "location": "16da607f446a8e1a2aa3d1aaefd030a1.mid",
+        "genre": "pop",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 89.0,
+        "duration": 103,
+        "chord_summary": [
+            "C",
+            "F",
+            "Bb",
+            "F"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Acoustic Guitar",
+            "Strings",
+            "Bass",
+            "Organ"
+        ]
+    },
+    {
+        "location": "16971bd738e49b9ec3251c9b21b88176.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 72.0,
+        "duration": 310,
+        "chord_summary": [
+            "F",
+            "C",
+            "Bb",
+            "F",
+            "C"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Strings",
+            "Organ",
+            "Piano",
+            "Bass"
+        ]
+    },
+    {
+        "location": "104eec72501d7edeb1db54599bd0e408.mid",
+        "genre": "pop",
+        "key": "A major",
+        "time_signature": "4/4",
+        "tempo": 111.0,
+        "duration": 237,
+        "chord_summary": [
+            "D",
+            "E6",
+            "D",
+            "E"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Electric Guitar",
+            "Acoustic Guitar",
+            "Electric Guitar",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "103f0ccc48feff0a1af7b3f2f933c7cd.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 154,
+        "chord_summary": [
+            "G7",
+            "C"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Organ",
+            "Drums",
+            "Brass",
+            "Bass"
+        ]
+    },
+    {
+        "location": "1278b6a4657c5fa782e3dd223a02d19c.mid",
+        "genre": "pop",
+        "key": "E major",
+        "time_signature": "4/4",
+        "tempo": 127.0,
+        "duration": 161,
+        "chord_summary": [
+            "E",
+            "A6",
+            "A"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Electric Guitar",
+            "Bass",
+            "Strings",
+            "Drums"
+        ]
+    },
+    {
+        "location": "18f37bd3a7ff4bc37930b49ec0ef31da.mid",
+        "genre": "pop",
+        "key": "E minor",
+        "time_signature": "4/4",
+        "tempo": 151.0,
+        "duration": 164,
+        "chord_summary": [
+            "E",
+            "B"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Electric Guitar",
+            "Electric Guitar",
+            "Brass",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1a6cd43a4f88f8a3a2764e0c75da85be.mid",
+        "genre": "pop",
+        "key": "Ab major",
+        "time_signature": "4/4",
+        "tempo": 88.0,
+        "duration": 278,
+        "chord_summary": [
+            "Ab",
+            "Fm",
+            "Cm",
+            "Ab",
+            "Fm"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Bass",
+            "Drums",
+            "Synths"
+        ]
+    },
+    {
+        "location": "13dae32ce554301f633e46b7d47d91a9.mid",
+        "genre": "pop",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 195.0,
+        "duration": 177,
+        "chord_summary": [
+            "D",
+            "G"
+        ],
+        "instrument_summary": [
+            "Organ",
+            "Acoustic Guitar",
+            "Strings",
+            "Bass",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1ac0573cb6dbf7411d0f1fb24463ec4d.mid",
+        "genre": "pop",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 195,
+        "chord_summary": [
+            "A7",
+            "D7",
+            "G"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Xylophone",
+            "Drums"
+        ]
+    },
+    {
+        "location": "14e8483f949577b6387d19d4c254d29e.mid",
+        "genre": "pop",
+        "key": "D minor",
+        "time_signature": "4/4",
+        "tempo": 121.0,
+        "duration": 226,
+        "chord_summary": [
+            "Gm7",
+            "Am7",
+            "Dm7",
+            "Gm7",
+            "Am7"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "1b2b4df854b5dd472f199a0f9fce34f0.mid",
+        "genre": "pop",
+        "key": "G minor",
+        "time_signature": "4/4",
+        "tempo": 130.0,
+        "duration": 185,
+        "chord_summary": [
+            "Am7b5",
+            "D7",
+            "Gm",
+            "Bb6"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Brass",
+            "Bass",
+            "Acoustic Guitar",
+            "Drums"
+        ]
+    },
+    {
+        "location": "16766af757f42d6ec178ab4a5f31830a.mid",
+        "genre": "pop",
+        "key": "D minor",
+        "time_signature": "4/4",
+        "tempo": 148.0,
+        "duration": 271,
+        "chord_summary": [
+            "Bb",
+            "Eb",
+            "F",
+            "Dm7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Acoustic Guitar",
+            "Drums",
+            "Synths",
+            "Strings"
+        ]
+    },
+    {
+        "location": "160c015fe727cbf4bd29d21f4570f4aa.mid",
+        "genre": "pop",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 90.0,
+        "duration": 240,
+        "chord_summary": [
+            "A6",
+            "E",
+            "A"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Drums",
+            "Bass"
+        ]
+    },
+    {
+        "location": "1389632d93e693d9ff12fbb8b50bd273.mid",
+        "genre": "pop",
+        "key": "G# minor",
+        "time_signature": "4/4",
+        "tempo": 108.0,
+        "duration": 246,
+        "chord_summary": [
+            "Ebm",
+            "B",
+            "C#",
+            "Ebm",
+            "B"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "148eeca8076c22fddf015b64e67ea2f2.mid",
+        "genre": "pop",
+        "key": "E minor",
+        "time_signature": "4/4",
+        "tempo": 110.0,
+        "duration": 247,
+        "chord_summary": [
+            "D6",
+            "Cmaj7",
+            "Am",
+            "Em",
+            "Bm7"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Piano",
+            "Organ",
+            "Brass",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "13961551d4646f14e636d65b4aacba13.mid",
+        "genre": "pop",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 126.0,
+        "duration": 225,
+        "chord_summary": [
+            "Em7",
+            "Fmaj7",
+            "G"
+        ],
+        "instrument_summary": [
+            "Synths",
+            "Brass",
+            "Strings",
+            "Electric Guitar",
+            "Piano"
+        ]
+    },
+    {
+        "location": "1c48185ab3157a35584a7cd36af97e82.mid",
+        "genre": "pop",
+        "key": "Eb major",
+        "time_signature": "4/4",
+        "tempo": 141.0,
+        "duration": 351,
+        "chord_summary": [
+            "F",
+            "C",
+            "Dm",
+            "Bb",
+            "C"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Piano",
+            "Brass",
+            "Electric Guitar",
+            "Xylophone"
+        ]
+    },
+    {
+        "location": "1aad4d4e2d2fe06e156a62fdc1d7be3a.mid",
+        "genre": "pop",
+        "key": "C# major",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 270,
+        "chord_summary": [
+            "Bbm",
+            "Fm",
+            "Ab"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Piano",
+            "Electric Guitar",
+            "Brass",
+            "Choir"
+        ]
+    },
+    {
+        "location": "1630831c6b8a18b5051324f32197d541.mid",
+        "genre": "pop",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 315,
+        "chord_summary": [
+            "Fm7b5",
+            "Am7b5/G",
+            "Bb",
+            "Gm7",
+            "Abmaj7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Acoustic Guitar",
+            "Drums",
+            "Choir",
+            "Xylophone"
+        ]
+    },
+    {
+        "location": "137a157e774f6132b57adf917dffb8d1.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 153.0,
+        "duration": 190,
+        "chord_summary": [
+            "Cmaj7",
+            "Fmaj7",
+            "G7",
+            "Cmaj7",
+            "Fmaj7"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Acoustic Guitar",
+            "Drums",
+            "Bass",
+            "Piano"
+        ]
+    },
+    {
+        "location": "1fb2f403fec4b9e8f655a64bcb7f0d1b.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 122.0,
+        "duration": 213,
+        "chord_summary": [
+            "C",
+            "G",
+            "Am",
+            "C",
+            "G"
+        ],
+        "instrument_summary": [
+            "Drums",
+            "Bass",
+            "Strings",
+            "Electric Guitar",
+            "Piano"
+        ]
+    },
+    {
+        "location": "1aeb5b918a7e31efb464915822942608.mid",
+        "genre": "pop",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 146,
+        "chord_summary": [
+            "Am",
+            "D7",
+            "G",
+            "Am",
+            "D7"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Electric Guitar",
+            "Bass",
+            "Woodwinds",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "1cdb878017765d2474a4aaf9112f6ab0.mid",
+        "genre": "pop",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 82.0,
+        "duration": 273,
+        "chord_summary": [
+            "Ab",
+            "C#"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Strings",
+            "Piano",
+            "Brass",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1eb50a9bec036cf8934fda2ee2b2d577.mid",
+        "genre": "pop",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 115.0,
+        "duration": 225,
+        "chord_summary": [
+            "Am",
+            "Dm",
+            "Am",
+            "F"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Acoustic Guitar",
+            "Strings",
+            "Bass",
+            "Drums"
+        ]
+    },
+    {
+        "location": "13ea2600005c84bf52d217166871bfd9.mid",
+        "genre": "pop",
+        "key": "C# major",
+        "time_signature": "4/4",
+        "tempo": 88.0,
+        "duration": 270,
+        "chord_summary": [
+            "Cm",
+            "Bbm",
+            "F#",
+            "C#",
+            "F#6"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Organ",
+            "Drums",
+            "Organ",
+            "Bass"
+        ]
+    },
+    {
+        "location": "1d25d8918a620f9ce5e83d5a63a292ed.mid",
+        "genre": "pop",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 262,
+        "chord_summary": [
+            "D",
+            "Em7",
+            "A",
+            "D",
+            "Em7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Piano",
+            "Strings",
+            "Bass"
+        ]
+    },
+    {
+        "location": "1a5325f3aef06775248fe1e6bd91464b.mid",
+        "genre": "pop",
+        "key": "C# minor",
+        "time_signature": "4/4",
+        "tempo": 128.0,
+        "duration": 232,
+        "chord_summary": [
+            "F#m6",
+            "Bm",
+            "C#7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Woodwinds",
+            "Bass",
+            "Drums"
+        ]
+    },
+    {
+        "location": "161af97bd31f7084f7e02ddb7b635c5e.mid",
+        "genre": "pop",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 90.0,
+        "duration": 155,
+        "chord_summary": [
+            "Bb",
+            "Dm",
+            "Ddim",
+            "G7",
+            "Cm"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Electric Guitar",
+            "Bass",
+            "Woodwinds",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "160edba6c57cebe85f7e67673842d5f9.mid",
+        "genre": "pop",
+        "key": "C# major",
+        "time_signature": "4/4",
+        "tempo": 81.0,
+        "duration": 187,
+        "chord_summary": [
+            "C#",
+            "Ebm7"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Acoustic Guitar",
+            "Drums",
+            "Bass",
+            "Choir"
+        ]
+    },
+    {
+        "location": "170644a9cd5608c44d1c68a6d171578b.mid",
+        "genre": "pop",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 141.0,
+        "duration": 165,
+        "chord_summary": [
+            "F",
+            "Cm",
+            "Gm",
+            "Eb",
+            "Bb"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "142fbff17a6d95cc35ed8cd462445379.mid",
+        "genre": "pop",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 178.0,
+        "duration": 251,
+        "chord_summary": [
+            "C",
+            "F"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Brass",
+            "Electric Guitar",
+            "Electric Guitar",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1f27f529f40e6ce1549d0c9c70dafc31.mid",
+        "genre": "pop",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 32,
+        "chord_summary": [
+            "D",
+            "A7",
+            "D",
+            "A"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "11d7d0dbf2b2ca1d50178d1a31a90511.mid",
+        "genre": "pop",
+        "key": "E major",
+        "time_signature": "4/4",
+        "tempo": 96.0,
+        "duration": 65,
+        "chord_summary": [
+            "C#m",
+            "Amaj7",
+            "B",
+            "Emaj7",
+            "Abm"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "17370ada7779c8c07aa6c112138464c7.mid",
+        "genre": "pop",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 104.0,
+        "duration": 230,
+        "chord_summary": [
+            "D",
+            "G",
+            "C/E",
+            "Em",
+            "Am"
+        ],
+        "instrument_summary": [
+            "Organ",
+            "Piano",
+            "Brass",
+            "Bass",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "10d945bcfa0fb6a1f52ab5d02be1b0fd.mid",
+        "genre": "pop",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 130.0,
+        "duration": 127,
+        "chord_summary": [
+            "D",
+            "G",
+            "A7",
+            "D",
+            "G"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Acoustic Guitar",
+            "Bass",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1ae35f133f9160afb71e75588362ca25.mid",
+        "genre": "pop",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 76.0,
+        "duration": 281,
+        "chord_summary": [
+            "Em",
+            "D"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Acoustic Guitar",
+            "Strings",
+            "Drums",
+            "Synths"
+        ]
+    },
+    {
+        "location": "1d0d77fe9ea5a981a189e729db9f8637.mid",
+        "genre": "pop",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 145,
+        "chord_summary": [
+            "Abm7b5",
+            "C#7",
+            "F#m7",
+            "B7",
+            "Em"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "196786fee8e976548bd7bb19e176c679.mid",
+        "genre": "pop",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 26,
+        "chord_summary": [
+            "Cmaj7",
+            "G",
+            "D",
+            "G",
+            "D7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Woodwinds",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "118930040e2de1e1f8cc20f9be69a881.mid",
+        "genre": "pop",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 115.0,
+        "duration": 227,
+        "chord_summary": [
+            "D6",
+            "A7",
+            "D"
+        ],
+        "instrument_summary": [
+            "Woodwinds",
+            "Acoustic Guitar",
+            "Piano",
+            "Woodwinds",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "17dabd195092de124c8675f256996347.mid",
+        "genre": "pop",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 125.0,
+        "duration": 213,
+        "chord_summary": [
+            "Ab/Eb",
+            "F7",
+            "Ab",
+            "F7",
+            "F"
+        ],
+        "instrument_summary": [
+            "Organ",
+            "Drums",
+            "Brass",
+            "Brass",
+            "Brass"
+        ]
+    },
+    {
+        "location": "19fe7eeed31c814b20fcbe34d0637079.mid",
+        "genre": "pop",
+        "key": "E major",
+        "time_signature": "4/4",
+        "tempo": 114.0,
+        "duration": 200,
+        "chord_summary": [
+            "E",
+            "A",
+            "B",
+            "C#m"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Acoustic Guitar",
+            "Electric Guitar",
+            "Drums",
+            "Organ"
+        ]
+    },
+    {
+        "location": "1ad2b96b4918ccbea74cd8d00d31cc58.mid",
+        "genre": "pop",
+        "key": "F minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 142,
+        "chord_summary": [
+            "Cm7",
+            "Fm7",
+            "Bb7",
+            "Eb",
+            "Ab"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Xylophone",
+            "Brass",
+            "Brass",
+            "Bass"
+        ]
+    },
+    {
+        "location": "179582cbf4c16a2d2df895d05eab33cb.mid",
+        "genre": "pop",
+        "key": "Ab major",
+        "time_signature": "4/4",
+        "tempo": 102.0,
+        "duration": 165,
+        "chord_summary": [
+            "Ab",
+            "Eb"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Electric Guitar",
+            "Drums",
+            "Organ",
+            "Brass"
+        ]
+    },
+    {
+        "location": "15a0c906e646f68049554cf1aff7ee53.mid",
+        "genre": "pop",
+        "key": "E major",
+        "time_signature": "4/4",
+        "tempo": 186.0,
+        "duration": 251,
+        "chord_summary": [
+            "B",
+            "Emaj7",
+            "A",
+            "E"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Acoustic Guitar",
+            "Brass",
+            "Brass",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "18f55b1b6dd52fbd22c19776aca2e507.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 140.0,
+        "duration": 180,
+        "chord_summary": [
+            "Ebm7",
+            "Dm7",
+            "Em7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Acoustic Guitar",
+            "Bass",
+            "Drums"
+        ]
+    },
+    {
+        "location": "10918c12c57848b4541a1a4945d2560b.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 169.0,
+        "duration": 186,
+        "chord_summary": [
+            "Am7",
+            "G",
+            "Cm7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Brass",
+            "Brass",
+            "Brass",
+            "Bass"
+        ]
+    },
+    {
+        "location": "1b9f5f325c2080d345d877f590aa3dbe.mid",
+        "genre": "pop",
+        "key": "Eb minor",
+        "time_signature": "4/4",
+        "tempo": 123.0,
+        "duration": 150,
+        "chord_summary": [
+            "Bb",
+            "Eb",
+            "F7",
+            "Bb",
+            "Eb"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Acoustic Guitar",
+            "Xylophone",
+            "Bass",
+            "Drums"
+        ]
+    },
+    {
+        "location": "18d2e82c361e5d376fa403be93840d00.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 118.0,
+        "duration": 230,
+        "chord_summary": [
+            "G6",
+            "F6",
+            "G7"
+        ],
+        "instrument_summary": [
+            "Bass",
+            "Piano",
+            "Drums",
+            "Brass",
+            "Strings"
+        ]
+    },
+    {
+        "location": "1ebae643efad8005a89f83f25ef63448.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 191.0,
+        "duration": 169,
+        "chord_summary": [
+            "G",
+            "C",
+            "Fmaj7",
+            "C"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Choir",
+            "Electric Guitar",
+            "Acoustic Guitar",
+            "Bass"
+        ]
+    },
+    {
+        "location": "14570b43396412155296ff1e69d6f448.mid",
+        "genre": "pop",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 125.0,
+        "duration": 141,
+        "chord_summary": [
+            "C",
+            "D",
+            "G"
+        ],
+        "instrument_summary": [
+            "Brass",
+            "Strings",
+            "Choir",
+            "Bass",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "11fbdb1739dc0d82de4e8e31d477d8c3.mid",
+        "genre": "pop",
+        "key": "A major",
+        "time_signature": "4/4",
+        "tempo": 122.0,
+        "duration": 25,
+        "chord_summary": [
+            "D",
+            "A",
+            "E",
+            "A"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Strings",
+            "Bass",
+            "Drums",
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "1bf93bd67cc1b24748086de8f6552d5e.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 96.0,
+        "duration": 175,
+        "chord_summary": [
+            "F",
+            "Dm7",
+            "G",
+            "C",
+            "C#dim"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Acoustic Guitar",
+            "Organ",
+            "Strings",
+            "Choir"
+        ]
+    },
+    {
+        "location": "157bbe43b557677f2eb11f394dbbb1bc.mid",
+        "genre": "pop",
+        "key": "C minor",
+        "time_signature": "4/4",
+        "tempo": 76.0,
+        "duration": 281,
+        "chord_summary": [
+            "G",
+            "C"
+        ],
+        "instrument_summary": [
+            "Organ",
+            "Synths",
+            "Acoustic Guitar",
+            "Strings",
+            "Bass"
+        ]
+    },
+    {
+        "location": "1d7b209c426582923e067d7e8e45c3bf.mid",
+        "genre": "pop",
+        "key": "A major",
+        "time_signature": "4/4",
+        "tempo": 90.0,
+        "duration": 195,
+        "chord_summary": [
+            "D",
+            "E",
+            "A",
+            "D",
+            "E"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Bass",
+            "Strings",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1c5b820e4e9d3054f8e2c0de0dca3da2.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 127.0,
+        "duration": 186,
+        "chord_summary": [
+            "C",
+            "F",
+            "G"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Organ",
+            "Electric Guitar",
+            "Bass",
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "1a4d254bc9aecd2fe45d0e5499f2762b.mid",
+        "genre": "pop",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 129,
+        "chord_summary": [
+            "Bb",
+            "F",
+            "C",
+            "F",
+            "A7/C#"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "10524305fc9c760538b6a69b4986fe55.mid",
+        "genre": "pop",
+        "key": "A major",
+        "time_signature": "4/4",
+        "tempo": 116.0,
+        "duration": 194,
+        "chord_summary": [
+            "A",
+            "E",
+            "D"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Drums",
+            "Choir",
+            "Xylophone",
+            "Brass"
+        ]
+    },
+    {
+        "location": "13e65837678aae6662adf48e85de9658.mid",
+        "genre": "pop",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 240,
+        "chord_summary": [
+            "G",
+            "D"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Piano",
+            "Strings",
+            "Drums"
+        ]
+    },
+    {
+        "location": "177070109d5aba784fd15d300d646034.mid",
+        "genre": "pop",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 116.0,
+        "duration": 212,
+        "chord_summary": [
+            "D",
+            "G",
+            "A",
+            "D",
+            "G"
+        ],
+        "instrument_summary": [
+            "Organ",
+            "Piano",
+            "Acoustic Guitar",
+            "Electric Guitar",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "10505fb41d0aa4d9f4123f859c989339.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 125.0,
+        "duration": 10,
+        "chord_summary": [
+            "Em",
+            "D",
+            "Bm",
+            "C"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "1ed805a3eff947097421987d417ffe82.mid",
+        "genre": "pop",
+        "key": "D minor",
+        "time_signature": "4/4",
+        "tempo": 112.0,
+        "duration": 176,
+        "chord_summary": [
+            "A",
+            "D",
+            "Gm7",
+            "C",
+            "Bdim"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Electric Guitar",
+            "Organ",
+            "Drums",
+            "Bass"
+        ]
+    },
+    {
+        "location": "1a9c96c664e23d41b561ee89e20e9944.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 132.0,
+        "duration": 212,
+        "chord_summary": [
+            "C",
+            "G",
+            "F",
+            "Fm7",
+            "F6"
+        ],
+        "instrument_summary": [
+            "Bass",
+            "Acoustic Guitar",
+            "Drums",
+            "Strings",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "1e246d7da883039d1cbf586e5b006c9b.mid",
+        "genre": "pop",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 196,
+        "chord_summary": [
+            "Abaug",
+            "Bbm",
+            "C#m6",
+            "Ab/C",
+            "Bm6"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Brass",
+            "Woodwinds",
+            "Brass",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1720960d08275aadacbf88e3de593b75.mid",
+        "genre": "pop",
+        "key": "E major",
+        "time_signature": "4/4",
+        "tempo": 78.0,
+        "duration": 166,
+        "chord_summary": [
+            "E",
+            "Eaug",
+            "A",
+            "C#",
+            "F#m"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Acoustic Guitar",
+            "Woodwinds",
+            "Bass"
+        ]
+    },
+    {
+        "location": "198f672d864c6affdf6bf5367efd56c1.mid",
+        "genre": "pop",
+        "key": "A major",
+        "time_signature": "4/4",
+        "tempo": 57.0,
+        "duration": 129,
+        "chord_summary": [
+            "A",
+            "Bm",
+            "A/E",
+            "E7"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Piano",
+            "Acoustic Guitar",
+            "Brass",
+            "Bass"
+        ]
+    },
+    {
+        "location": "1f0fb04eecb32d0b1da277e618ebb570.mid",
+        "genre": "pop",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 78.0,
+        "duration": 210,
+        "chord_summary": [
+            "C",
+            "Em",
+            "Am",
+            "G"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Drums",
+            "Bass",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1215a50d28159b93634f2bdaf8814176.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 116.0,
+        "duration": 260,
+        "chord_summary": [
+            "A7",
+            "Dm7",
+            "G"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Electric Guitar",
+            "Electric Guitar",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "1d08bfa6789e111719ce89a086f1f3a2.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 155.0,
+        "duration": 132,
+        "chord_summary": [
+            "A7",
+            "D",
+            "G7",
+            "C"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Brass"
+        ]
+    },
+    {
+        "location": "17c822056fd5df39adf17cb9ad7eb7fb.mid",
+        "genre": "pop",
+        "key": "E major",
+        "time_signature": "4/4",
+        "tempo": 117.0,
+        "duration": 240,
+        "chord_summary": [
+            "C#m7",
+            "F#m",
+            "B7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Drums",
+            "Electric Guitar",
+            "Bass",
+            "Brass"
+        ]
+    },
+    {
+        "location": "10e0d2ba77fd95d1236a0dc3a9be1f50.mid",
+        "genre": "pop",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 97.0,
+        "duration": 247,
+        "chord_summary": [
+            "F",
+            "C7"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Brass",
+            "Acoustic Guitar",
+            "Electric Guitar",
+            "Brass"
+        ]
+    },
+    {
+        "location": "18cc89690a9a5ea122640b299ee26e27.mid",
+        "genre": "pop",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 124.0,
+        "duration": 160,
+        "chord_summary": [
+            "C6",
+            "F",
+            "C",
+            "F"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Drums",
+            "Bass",
+            "Brass",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1f0b6bfd3d9bb27913a1b95b19b2458f.mid",
+        "genre": "pop",
+        "key": "Eb major",
+        "time_signature": "4/4",
+        "tempo": 137.0,
+        "duration": 193,
+        "chord_summary": [
+            "Ab",
+            "Eb"
+        ],
+        "instrument_summary": [
+            "Organ",
+            "Brass",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "1c5e3e55934ab355281fcbbabe7c3f84.mid",
+        "genre": "pop",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 224,
+        "chord_summary": [
+            "Bb",
+            "F/A",
+            "Gm7",
+            "F",
+            "Cm"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Choir",
+            "Drums",
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "1ab7976cb1d99a02d5231e71fcab3758.mid",
+        "genre": "pop",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 140.0,
+        "duration": 235,
+        "chord_summary": [
+            "Am7",
+            "Bb",
+            "Am7b5/G",
+            "Fm7"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Brass",
+            "Piano",
+            "Drums",
+            "Brass"
+        ]
+    },
+    {
+        "location": "183539f81e04625c13e60edea6990058.mid",
+        "genre": "pop",
+        "key": "Ab major",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 95,
+        "chord_summary": [
+            "Abmaj7",
+            "C#aug",
+            "Bbm",
+            "Cm",
+            "Ab"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Choir"
+        ]
+    },
+    {
+        "location": "1ae1edce7be3fda34f700be9ce1a3480.mid",
+        "genre": "pop",
+        "key": "Eb minor",
+        "time_signature": "4/4",
+        "tempo": 90.0,
+        "duration": 69,
+        "chord_summary": [
+            "Ab",
+            "F#",
+            "E",
+            "F#"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "1623e6e2f5814e933219033070e77d15.mid",
+        "genre": "pop",
+        "key": "E major",
+        "time_signature": "4/4",
+        "tempo": 117.0,
+        "duration": 177,
+        "chord_summary": [
+            "Emaj7",
+            "C#m",
+            "Emaj7",
+            "C#m",
+            "Abm7"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Piano",
+            "Drums",
+            "Bass",
+            "Xylophone"
+        ]
+    },
+    {
+        "location": "1f0fda2192c5ad56b37a7bb5209ac9fa.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 128.0,
+        "duration": 330,
+        "chord_summary": [
+            "G",
+            "Em7",
+            "F/G",
+            "C"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Acoustic Guitar",
+            "Strings",
+            "Bass",
+            "Synths"
+        ]
+    },
+    {
+        "location": "1c7cdb9e218a419511c8f5af7054faa8.mid",
+        "genre": "pop",
+        "key": "Bb minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 210,
+        "chord_summary": [
+            "Bbm",
+            "Ebm",
+            "Ab"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Acoustic Guitar",
+            "Strings",
+            "Drums",
+            "Organ"
+        ]
+    },
+    {
+        "location": "133e7ab116226b9f24978c2c10882153.mid",
+        "genre": "pop",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 188,
+        "chord_summary": [
+            "Dm",
+            "C",
+            "F",
+            "Gm"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Synths",
+            "Electric Guitar",
+            "Woodwinds",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "1db33cf5732ab09c14121df8aa6cf911.mid",
+        "genre": "pop",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 122.0,
+        "duration": 248,
+        "chord_summary": [
+            "Cm",
+            "Bb"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Acoustic Guitar",
+            "Synths",
+            "Drums",
+            "Bass"
+        ]
+    },
+    {
+        "location": "12da116dbe1674a5919e54050bebba89.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 88.0,
+        "duration": 262,
+        "chord_summary": [
+            "C",
+            "F"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Woodwinds",
+            "Acoustic Guitar",
+            "Drums",
+            "Bass"
+        ]
+    },
+    {
+        "location": "19171ac1a250d81c5912cae8b0c780dd.mid",
+        "genre": "pop",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 79.0,
+        "duration": 115,
+        "chord_summary": [
+            "Dm",
+            "Eb",
+            "Gm7",
+            "C7"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "15a54afdf63c57244e1e51155e9f6a91.mid",
+        "genre": "pop",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 64.0,
+        "duration": 223,
+        "chord_summary": [
+            "C",
+            "F",
+            "Bb",
+            "F"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Bass",
+            "Acoustic Guitar",
+            "Electric Guitar",
+            "Choir"
+        ]
+    },
+    {
+        "location": "10e8d79a8f9ab1f3543a0de66a2522d5.mid",
+        "genre": "pop",
+        "key": "C# minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 257,
+        "chord_summary": [
+            "E",
+            "Ab",
+            "A",
+            "B"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Brass",
+            "Brass",
+            "Bass"
+        ]
+    },
+    {
+        "location": "149b62f7edc85d06346fafab4692e81b.mid",
+        "genre": "pop",
+        "key": "E minor",
+        "time_signature": "4/4",
+        "tempo": 122.0,
+        "duration": 215,
+        "chord_summary": [
+            "E",
+            "G",
+            "F#m"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Organ",
+            "Electric Guitar",
+            "Drums",
+            "Organ"
+        ]
+    },
+    {
+        "location": "187044851166c9e56b002385b1bd75ba.mid",
+        "genre": "pop",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 160.0,
+        "duration": 230,
+        "chord_summary": [
+            "Bb",
+            "F",
+            "C7",
+            "F"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Drums",
+            "Bass",
+            "Strings",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "13d0805b4ca490faf59fde5aa7420e5c.mid",
+        "genre": "pop",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 116.0,
+        "duration": 303,
+        "chord_summary": [
+            "F/A",
+            "G/B",
+            "Dm7",
+            "G",
+            "Am"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Drums",
+            "Electric Guitar",
+            "Strings",
+            "Brass"
+        ]
+    },
+    {
+        "location": "19f71534fc1ad42832b0c7a9aec9d272.mid",
+        "genre": "pop",
+        "key": "E minor",
+        "time_signature": "4/4",
+        "tempo": 132.0,
+        "duration": 298,
+        "chord_summary": [
+            "Am",
+            "C",
+            "F",
+            "Em"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Synths",
+            "Acoustic Guitar",
+            "Electric Guitar",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "1b6c1bf12519a8b5cc29163ab58671ee.mid",
+        "genre": "pop",
+        "key": "A major",
+        "time_signature": "4/4",
+        "tempo": 112.0,
+        "duration": 133,
+        "chord_summary": [
+            "E",
+            "A6",
+            "E7",
+            "Bm",
+            "A6"
+        ],
+        "instrument_summary": [
+            "Organ",
+            "Drums",
+            "Electric Guitar",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1591a0eb4ddedc05a8b377efd9798b9e.mid",
+        "genre": "pop",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 169,
+        "chord_summary": [
+            "Am",
+            "Abaug",
+            "C/G",
+            "F#m7b5"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Acoustic Guitar",
+            "Woodwinds",
+            "Strings",
+            "Organ"
+        ]
+    },
+    {
+        "location": "1648f6c356f96ad8402ec966a4ee4ea4.mid",
+        "genre": "pop",
+        "key": "Eb major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 68,
+        "chord_summary": [
+            "Eb",
+            "Ab",
+            "Bb"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Piano",
+            "Organ",
+            "Woodwinds"
+        ]
+    }
+]

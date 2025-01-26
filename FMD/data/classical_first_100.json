@@ -1,0 +1,1940 @@
+[
+    {
+        "location": "1f94f64f72af98fd92f206293b281f6f.mid",
+        "genre": "classical",
+        "key": "C# major",
+        "time_signature": "4/4",
+        "tempo": 74.0,
+        "duration": 91,
+        "chord_summary": [
+            "C#",
+            "Fm",
+            "Ab"
+        ],
+        "instrument_summary": [
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "1a20c7ecf60469366d1121ea48fd3f6e.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 108.0,
+        "duration": 71,
+        "chord_summary": [
+            "G7/B",
+            "Am7",
+            "Dm",
+            "C",
+            "Em7"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "189bdd2adba78518dc3ef364248020ce.mid",
+        "genre": "classical",
+        "key": "E minor",
+        "time_signature": "4/4",
+        "tempo": 115.0,
+        "duration": 227,
+        "chord_summary": [
+            "Em",
+            "D",
+            "Dm",
+            "A",
+            "Am"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Woodwinds",
+            "Woodwinds",
+            "Woodwinds",
+            "Bass"
+        ]
+    },
+    {
+        "location": "1a6a2b0842e7c5f26d84351a8b09a715.mid",
+        "genre": "classical",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 96.0,
+        "duration": 65,
+        "chord_summary": [
+            "F",
+            "C7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Xylophone",
+            "Woodwinds",
+            "Choir",
+            "Strings"
+        ]
+    },
+    {
+        "location": "1100a45243b584e754469ee009674edc.mid",
+        "genre": "classical",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 21,
+        "chord_summary": [
+            "Bb",
+            "Eb",
+            "F",
+            "Bb",
+            "F"
+        ],
+        "instrument_summary": [
+            "Woodwinds",
+            "Piano",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "17e25e3e3ba96c4c650dfe9e9e4fbf8a.mid",
+        "genre": "classical",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 45.0,
+        "duration": 304,
+        "chord_summary": [
+            "Dm",
+            "Eb"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Synths",
+            "Choir"
+        ]
+    },
+    {
+        "location": "11e16ec1288089bb97d8a07a2f729911.mid",
+        "genre": "classical",
+        "key": "G minor",
+        "time_signature": "4/4",
+        "tempo": 159.0,
+        "duration": 124,
+        "chord_summary": [
+            "Gm",
+            "D",
+            "Gm",
+            "F6",
+            "Eb6"
+        ],
+        "instrument_summary": [
+            "Brass",
+            "Woodwinds",
+            "Bass",
+            "Brass",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1c34d00dea37457c696ed7e4cc84ee75.mid",
+        "genre": "classical",
+        "key": "C minor",
+        "time_signature": "4/4",
+        "tempo": 174.0,
+        "duration": 126,
+        "chord_summary": [
+            "G",
+            "Cm",
+            "Fm"
+        ],
+        "instrument_summary": [
+            "Brass",
+            "Brass",
+            "Brass",
+            "Electric Guitar",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "19874991bae29117d1126f520ca18d9a.mid",
+        "genre": "classical",
+        "key": "D minor",
+        "time_signature": "4/4",
+        "tempo": 183.0,
+        "duration": 251,
+        "chord_summary": [
+            "C6",
+            "B",
+            "Dm7",
+            "G",
+            "Dm7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Brass",
+            "Brass",
+            "Woodwinds",
+            "Brass"
+        ]
+    },
+    {
+        "location": "112a881e69607f64f40a982b5f99cb8c.mid",
+        "genre": "classical",
+        "key": "Eb major",
+        "time_signature": "4/4",
+        "tempo": 170.0,
+        "duration": 243,
+        "chord_summary": [
+            "Eb",
+            "Bb"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Brass",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "134e558e9f4e15690da7f18a36e07a7f.mid",
+        "genre": "classical",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 522,
+        "chord_summary": [
+            "Em",
+            "Am",
+            "B7",
+            "Em",
+            "Am"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "11887862cc167ca27f9eea468acb1431.mid",
+        "genre": "classical",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 108.0,
+        "duration": 207,
+        "chord_summary": [
+            "G",
+            "C",
+            "Cm",
+            "G",
+            "D7"
+        ],
+        "instrument_summary": [
+            "Organ",
+            "Piano",
+            "Strings",
+            "Strings",
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "121a91bf6564c378e800137371459318.mid",
+        "genre": "classical",
+        "key": "F minor",
+        "time_signature": "4/4",
+        "tempo": 96.0,
+        "duration": 51,
+        "chord_summary": [
+            "C#",
+            "Cmaj7",
+            "Fm",
+            "Cm",
+            "Gm"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Brass"
+        ]
+    },
+    {
+        "location": "17b9aa00e4049a924516cc5785090193.mid",
+        "genre": "classical",
+        "key": "C minor",
+        "time_signature": "4/4",
+        "tempo": 140.0,
+        "duration": 77,
+        "chord_summary": [
+            "Cdim",
+            "Fm",
+            "Gm",
+            "Cdim",
+            "Fm"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "1b77752e1138079554257999aa9d2a72.mid",
+        "genre": "classical",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 150.0,
+        "duration": 106,
+        "chord_summary": [
+            "F6",
+            "Am7",
+            "F",
+            "C6",
+            "F"
+        ],
+        "instrument_summary": [
+            "Brass",
+            "Woodwinds",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1d480ccd5380ed1f77999e6f7530a617.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 66.0,
+        "duration": 215,
+        "chord_summary": [
+            "C",
+            "G",
+            "F",
+            "G"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "12839a677e4738c16932c087b1e10260.mid",
+        "genre": "classical",
+        "key": "G minor",
+        "time_signature": "4/4",
+        "tempo": 85.0,
+        "duration": 177,
+        "chord_summary": [
+            "Gm",
+            "D"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "12eac7bb86bd762835bc3a8f36d34593.mid",
+        "genre": "classical",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 130.0,
+        "duration": 142,
+        "chord_summary": [
+            "C",
+            "F",
+            "Dm"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Piano",
+            "Choir",
+            "Choir",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "120f28fee7f16af581f3c5f408b4682b.mid",
+        "genre": "classical",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 90.0,
+        "duration": 74,
+        "chord_summary": [
+            "Am",
+            "Em"
+        ],
+        "instrument_summary": [
+            "Woodwinds",
+            "Choir",
+            "Acoustic Guitar",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1291277108f49186f9d88e4120fd5d03.mid",
+        "genre": "classical",
+        "key": "C minor",
+        "time_signature": "4/4",
+        "tempo": 130.0,
+        "duration": 89,
+        "chord_summary": [
+            "C",
+            "Ab",
+            "Cm",
+            "F6",
+            "Cm"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Organ",
+            "Strings",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "1d24b221e9a09de70529927ff4c2484d.mid",
+        "genre": "classical",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 133,
+        "chord_summary": [
+            "Eb",
+            "Ebm",
+            "Em",
+            "Cm",
+            "D"
+        ],
+        "instrument_summary": [
+            "Brass",
+            "Brass",
+            "Brass",
+            "Organ",
+            "Choir"
+        ]
+    },
+    {
+        "location": "17a101d1d5e96ffa5ec330221a2be24b.mid",
+        "genre": "classical",
+        "key": "E minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 184,
+        "chord_summary": [
+            "Em",
+            "Bm",
+            "C",
+            "G",
+            "C"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Woodwinds",
+            "Strings",
+            "Xylophone"
+        ]
+    },
+    {
+        "location": "13c7d9bdb82046516445ca66cce1fa41.mid",
+        "genre": "classical",
+        "key": "Ab major",
+        "time_signature": "4/4",
+        "tempo": 140.0,
+        "duration": 93,
+        "chord_summary": [
+            "Ab"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "1b0d42fd65c056f53905ca57401e26e0.mid",
+        "genre": "classical",
+        "key": "E minor",
+        "time_signature": "4/4",
+        "tempo": 70.0,
+        "duration": 118,
+        "chord_summary": [
+            "Am",
+            "Em",
+            "Bm"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "1a70237397b3b43f838cc5956d9ad3e0.mid",
+        "genre": "classical",
+        "key": "Eb major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 57,
+        "chord_summary": [
+            "Bb7",
+            "Eb",
+            "Ab"
+        ],
+        "instrument_summary": [
+            "Woodwinds",
+            "Piano",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "19df6be1c870f8371ec3866dd5ba3d5b.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 64.0,
+        "duration": 223,
+        "chord_summary": [
+            "F",
+            "G",
+            "C"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Strings",
+            "Woodwinds",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "15fb3b5ca713fdd160fec5ca9a5b6151.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 29,
+        "chord_summary": [
+            "Bm",
+            "Em",
+            "D7",
+            "F/C",
+            "C7"
+        ],
+        "instrument_summary": [
+            "Choir",
+            "Piano"
+        ]
+    },
+    {
+        "location": "18e5ea129055acd36cef828172f0434d.mid",
+        "genre": "classical",
+        "key": "D minor",
+        "time_signature": "4/4",
+        "tempo": 64.0,
+        "duration": 111,
+        "chord_summary": [
+            "G6",
+            "Dm",
+            "G6",
+            "Dm7",
+            "Bbmaj7"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Brass",
+            "Brass",
+            "Brass",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1eb026917a9d7feada548c3775876051.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 110.0,
+        "duration": 181,
+        "chord_summary": [
+            "C",
+            "Em",
+            "Am",
+            "Dm7"
+        ],
+        "instrument_summary": [
+            "Bass",
+            "Synths",
+            "Strings",
+            "Piano"
+        ]
+    },
+    {
+        "location": "1a9ac085056cc265e1d85eb8a942d361.mid",
+        "genre": "classical",
+        "key": "Eb major",
+        "time_signature": "4/4",
+        "tempo": 64.0,
+        "duration": 260,
+        "chord_summary": [
+            "Bb",
+            "F7",
+            "Bb",
+            "Gm",
+            "Eb"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Acoustic Guitar",
+            "Drums",
+            "Woodwinds",
+            "Strings"
+        ]
+    },
+    {
+        "location": "196aadf2ec8149ba2ac0b36f29bb29e4.mid",
+        "genre": "classical",
+        "key": "C# minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 49,
+        "chord_summary": [
+            "C#m",
+            "Emaj7",
+            "C#m",
+            "Abdim"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Piano",
+            "Piano",
+            "Piano"
+        ]
+    },
+    {
+        "location": "19730202f144450b810e09501b4c9b70.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 114.0,
+        "duration": 239,
+        "chord_summary": [
+            "G",
+            "F",
+            "C",
+            "G",
+            "F"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Strings",
+            "Piano",
+            "Choir",
+            "Choir"
+        ]
+    },
+    {
+        "location": "17187bf28f4a4c786f4532846a675a05.mid",
+        "genre": "classical",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 36,
+        "chord_summary": [
+            "Cm",
+            "Ab",
+            "Cm",
+            "A",
+            "Dm"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Strings",
+            "Brass",
+            "Brass",
+            "Brass"
+        ]
+    },
+    {
+        "location": "14bef3af6db660a1c5dc2ab0fa8c505d.mid",
+        "genre": "classical",
+        "key": "G minor",
+        "time_signature": "4/4",
+        "tempo": 95.0,
+        "duration": 363,
+        "chord_summary": [
+            "Bbmaj7",
+            "Ebmaj7",
+            "Cm7"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Piano",
+            "Strings",
+            "Drums",
+            "Bass"
+        ]
+    },
+    {
+        "location": "19edf07e1475d0565f4481ee70300e6f.mid",
+        "genre": "classical",
+        "key": "Eb major",
+        "time_signature": "4/4",
+        "tempo": 125.0,
+        "duration": 115,
+        "chord_summary": [
+            "Ab",
+            "Eb",
+            "Ab",
+            "D7"
+        ],
+        "instrument_summary": [
+            "Choir",
+            "Piano",
+            "Xylophone",
+            "Strings",
+            "Drums"
+        ]
+    },
+    {
+        "location": "10a74f7d35349924353ef789fc5e9657.mid",
+        "genre": "classical",
+        "key": "C minor",
+        "time_signature": "4/4",
+        "tempo": 55.0,
+        "duration": 352,
+        "chord_summary": [
+            "G",
+            "Ab",
+            "D7",
+            "Eb"
+        ],
+        "instrument_summary": [
+            "Strings"
+        ]
+    },
+    {
+        "location": "1ecb470971e5341709871d6b48eee5ac.mid",
+        "genre": "classical",
+        "key": "B minor",
+        "time_signature": "4/4",
+        "tempo": 86.0,
+        "duration": 320,
+        "chord_summary": [
+            "Bm",
+            "A",
+            "Bm",
+            "G",
+            "A"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Acoustic Guitar",
+            "Synths",
+            "Strings",
+            "Strings"
+        ]
+    },
+    {
+        "location": "11ba78efb83306732a0caa06981fe8b8.mid",
+        "genre": "classical",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 105.0,
+        "duration": 118,
+        "chord_summary": [
+            "Bbmaj7",
+            "F7",
+            "Bb6",
+            "F7",
+            "Bb6"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Brass",
+            "Brass",
+            "Strings",
+            "Strings"
+        ]
+    },
+    {
+        "location": "182410e6d7b85c142da6f41c83949547.mid",
+        "genre": "classical",
+        "key": "G minor",
+        "time_signature": "4/4",
+        "tempo": 93.0,
+        "duration": 255,
+        "chord_summary": [
+            "Gm",
+            "C",
+            "Am7b5/G",
+            "D",
+            "Eb"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Brass",
+            "Brass",
+            "Brass",
+            "Choir"
+        ]
+    },
+    {
+        "location": "1a4e7d695845f6fe5925c3185bc3f5c3.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 60.0,
+        "duration": 130,
+        "chord_summary": [
+            "Dm",
+            "G7",
+            "C"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Strings",
+            "Strings",
+            "Bass"
+        ]
+    },
+    {
+        "location": "176829262d5eacdac76acec716e5f0b0.mid",
+        "genre": "classical",
+        "key": "F# major",
+        "time_signature": "4/4",
+        "tempo": 106.0,
+        "duration": 12,
+        "chord_summary": [
+            "F#maj7",
+            "Abm",
+            "F#"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Choir"
+        ]
+    },
+    {
+        "location": "1cb0f1ae44e82d21cb8a716755c2582e.mid",
+        "genre": "classical",
+        "key": "A major",
+        "time_signature": "4/4",
+        "tempo": 82.0,
+        "duration": 110,
+        "chord_summary": [
+            "C#aug",
+            "F#m",
+            "A"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "1e4149d35dc987ac2d6360ca4645eda1.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 130.0,
+        "duration": 46,
+        "chord_summary": [
+            "G",
+            "C"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "1d6260f687ceb761d6a064cc52157a0e.mid",
+        "genre": "classical",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 87.0,
+        "duration": 106,
+        "chord_summary": [
+            "C",
+            "Em",
+            "C6",
+            "Dm",
+            "Dm6"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Piano",
+            "Drums",
+            "Woodwinds",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "18d25e09b4d8c736dbaa53c4e5bb2195.mid",
+        "genre": "classical",
+        "key": "A major",
+        "time_signature": "4/4",
+        "tempo": 98.0,
+        "duration": 213,
+        "chord_summary": [
+            "A",
+            "E",
+            "F#m",
+            "A",
+            "E"
+        ],
+        "instrument_summary": [
+            "Organ",
+            "Bass",
+            "Woodwinds",
+            "Electric Guitar"
+        ]
+    },
+    {
+        "location": "1ad52613dbcca9619acecc24de876df3.mid",
+        "genre": "classical",
+        "key": "G minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 104,
+        "chord_summary": [
+            "Bbmaj7",
+            "Gm",
+            "F",
+            "Gm7",
+            "Dm"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "12b179bb69841ba6554dfdc00a6a2058.mid",
+        "genre": "classical",
+        "key": "Eb major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 617,
+        "chord_summary": [
+            "Eb",
+            "Ab",
+            "Eb",
+            "Bb7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Brass"
+        ]
+    },
+    {
+        "location": "19aaff577af2c47bb7e672c334e29448.mid",
+        "genre": "classical",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 65.0,
+        "duration": 151,
+        "chord_summary": [
+            "Bm",
+            "Am7",
+            "Dm"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Brass",
+            "Woodwinds",
+            "Woodwinds",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "1e488111e187d8a72829834ba481ea60.mid",
+        "genre": "classical",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 159,
+        "chord_summary": [
+            "G",
+            "Bm7",
+            "Am7",
+            "Bm7",
+            "Am"
+        ],
+        "instrument_summary": [
+            "Woodwinds",
+            "Strings",
+            "Bass",
+            "Strings",
+            "Strings"
+        ]
+    },
+    {
+        "location": "1518cf81224a9d0f0577604edb83e6c3.mid",
+        "genre": "classical",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 102.0,
+        "duration": 256,
+        "chord_summary": [
+            "G",
+            "D",
+            "Em7",
+            "C"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Choir",
+            "Brass",
+            "Bass",
+            "Organ"
+        ]
+    },
+    {
+        "location": "1709b0ef68302dfa99b238c9913914fc.mid",
+        "genre": "classical",
+        "key": "Bb minor",
+        "time_signature": "4/4",
+        "tempo": 115.0,
+        "duration": 83,
+        "chord_summary": [
+            "Bb",
+            "Fm",
+            "F#"
+        ],
+        "instrument_summary": [
+            "Brass",
+            "Brass",
+            "Woodwinds",
+            "Woodwinds",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "1493fc9ace090ea8e516ddc20e081879.mid",
+        "genre": "classical",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 96,
+        "chord_summary": [
+            "B",
+            "C#",
+            "D"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Brass",
+            "Brass",
+            "Strings",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1aee87a0f2dc84f301d331c7ab0b11a5.mid",
+        "genre": "classical",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 170,
+        "chord_summary": [
+            "C",
+            "F",
+            "Bb",
+            "Dm",
+            "Bb"
+        ],
+        "instrument_summary": [
+            "Strings"
+        ]
+    },
+    {
+        "location": "15af19a6929666bf2acf4d2a15d867cc.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 125.0,
+        "duration": 153,
+        "chord_summary": [
+            "C",
+            "F"
+        ],
+        "instrument_summary": [
+            "Electric Guitar",
+            "Strings",
+            "Xylophone",
+            "Piano",
+            "Xylophone"
+        ]
+    },
+    {
+        "location": "10c46dd5525ecffd87cc1f0f89c75784.mid",
+        "genre": "classical",
+        "key": "Ab major",
+        "time_signature": "4/4",
+        "tempo": 69.0,
+        "duration": 213,
+        "chord_summary": [
+            "Eb/G",
+            "Cm",
+            "Fm7"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Piano",
+            "Choir",
+            "Choir",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1fded4cff457fbbccc2fc05beae0ec0e.mid",
+        "genre": "classical",
+        "key": "A minor",
+        "time_signature": "4/4",
+        "tempo": 125.0,
+        "duration": 111,
+        "chord_summary": [
+            "G",
+            "F",
+            "G",
+            "Am7",
+            "F"
+        ],
+        "instrument_summary": [
+            "Strings"
+        ]
+    },
+    {
+        "location": "16e7b603ae7bc0087e3ccf724be9c98b.mid",
+        "genre": "classical",
+        "key": "D minor",
+        "time_signature": "4/4",
+        "tempo": 116.0,
+        "duration": 172,
+        "chord_summary": [
+            "Dm",
+            "E",
+            "Am"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Piano"
+        ]
+    },
+    {
+        "location": "157c7bd2279a39bef7bb93d8d1e1f6d1.mid",
+        "genre": "classical",
+        "key": "F# minor",
+        "time_signature": "4/4",
+        "tempo": 84.0,
+        "duration": 267,
+        "chord_summary": [
+            "C",
+            "C#",
+            "C",
+            "C#",
+            "D"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Strings",
+            "Woodwinds",
+            "Woodwinds",
+            "Brass"
+        ]
+    },
+    {
+        "location": "11d0587ffc81a8b5b2cc52449500cff8.mid",
+        "genre": "classical",
+        "key": "Eb major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 130,
+        "chord_summary": [
+            "Bb",
+            "Eb/F",
+            "G",
+            "C",
+            "D"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Strings",
+            "Brass",
+            "Xylophone",
+            "Xylophone"
+        ]
+    },
+    {
+        "location": "1e2a9e05ab009e5bc91423d4b555e20f.mid",
+        "genre": "classical",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 316,
+        "chord_summary": [
+            "G",
+            "Am",
+            "Cmaj7",
+            "Dm",
+            "C"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "1d346ddb35b88f2f25b37629bd83dee9.mid",
+        "genre": "classical",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 115.0,
+        "duration": 137,
+        "chord_summary": [
+            "C7/E",
+            "Am",
+            "Edim"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "1d0c6afc1f371eaf36842f7ce1fd9b9c.mid",
+        "genre": "classical",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 16,
+        "chord_summary": [
+            "D",
+            "E",
+            "D",
+            "B",
+            "A"
+        ],
+        "instrument_summary": [
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "1a64b074e47614249844658c62670329.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 180,
+        "chord_summary": [
+            "G7",
+            "C"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Piano",
+            "Piano",
+            "Piano",
+            "Piano"
+        ]
+    },
+    {
+        "location": "195c848284717e549443779c2a5539aa.mid",
+        "genre": "classical",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 38,
+        "chord_summary": [
+            "Bb",
+            "F7",
+            "Eb",
+            "Bb",
+            "F7"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Woodwinds",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "1cb52770a37e6224991fa790f804ffb5.mid",
+        "genre": "classical",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 90.0,
+        "duration": 72,
+        "chord_summary": [
+            "D",
+            "Em",
+            "D",
+            "E6",
+            "Bm"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "198129ee90a4e64c6de29a91743dcbda.mid",
+        "genre": "classical",
+        "key": "D minor",
+        "time_signature": "4/4",
+        "tempo": 67.0,
+        "duration": 525,
+        "chord_summary": [
+            "Dm",
+            "A"
+        ],
+        "instrument_summary": [
+            "Choir",
+            "Piano",
+            "Electric Guitar",
+            "Strings",
+            "Organ"
+        ]
+    },
+    {
+        "location": "1fb647c994c28204dce106d06b2b96b9.mid",
+        "genre": "classical",
+        "key": "C# major",
+        "time_signature": "4/4",
+        "tempo": 99.0,
+        "duration": 244,
+        "chord_summary": [
+            "F#",
+            "C#",
+            "B/D#",
+            "F#",
+            "Ab/C"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Woodwinds",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1b2212e3149f745a6be37d80637670a2.mid",
+        "genre": "classical",
+        "key": "Ab major",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 245,
+        "chord_summary": [
+            "Ab",
+            "F7/A",
+            "Bbm"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Strings",
+            "Strings"
+        ]
+    },
+    {
+        "location": "196a0baebdbe037b2cef0fe11132b9e2.mid",
+        "genre": "classical",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 60.0,
+        "duration": 220,
+        "chord_summary": [
+            "G",
+            "D"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings"
+        ]
+    },
+    {
+        "location": "19a83a762d76210928658af425ecd747.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 402,
+        "chord_summary": [
+            "Dm",
+            "G",
+            "F",
+            "C",
+            "Am"
+        ],
+        "instrument_summary": [
+            "Woodwinds",
+            "Strings",
+            "Piano",
+            "Acoustic Guitar",
+            "Bass"
+        ]
+    },
+    {
+        "location": "1488f59f4786a7c1cf30a6b856d80208.mid",
+        "genre": "classical",
+        "key": "Eb minor",
+        "time_signature": "4/4",
+        "tempo": 240.0,
+        "duration": 197,
+        "chord_summary": [
+            "Ebm",
+            "B",
+            "Ebm",
+            "B",
+            "Abm"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Choir",
+            "Strings",
+            "Strings",
+            "Strings"
+        ]
+    },
+    {
+        "location": "1c027fd41995209ebd2e4e939efeeba8.mid",
+        "genre": "classical",
+        "key": "D major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 104,
+        "chord_summary": [
+            "D",
+            "G",
+            "A",
+            "D",
+            "A7"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "171f82a45e309a09d21c1eebb71da691.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 94.0,
+        "duration": 156,
+        "chord_summary": [
+            "C",
+            "F",
+            "Dm"
+        ],
+        "instrument_summary": [
+            "Strings"
+        ]
+    },
+    {
+        "location": "1d997d97e2ba1a0fce263c038c793ff2.mid",
+        "genre": "classical",
+        "key": "D minor",
+        "time_signature": "4/4",
+        "tempo": 138.0,
+        "duration": 28,
+        "chord_summary": [
+            "Am",
+            "G",
+            "F",
+            "Am",
+            "G"
+        ],
+        "instrument_summary": [
+            "Strings"
+        ]
+    },
+    {
+        "location": "1876243807b8bb1b4a6502d5e785e88b.mid",
+        "genre": "classical",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 76.0,
+        "duration": 214,
+        "chord_summary": [
+            "Bb",
+            "Eb",
+            "F",
+            "Bb",
+            "Eb"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Woodwinds",
+            "Electric Guitar",
+            "Drums",
+            "Choir"
+        ]
+    },
+    {
+        "location": "178ce4692e6bd584decbcca410c53067.mid",
+        "genre": "classical",
+        "key": "F major",
+        "time_signature": "4/4",
+        "tempo": 121.0,
+        "duration": 185,
+        "chord_summary": [
+            "F",
+            "Dm7",
+            "Gm",
+            "Am",
+            "Bb"
+        ],
+        "instrument_summary": [
+            "Piano",
+            "Strings",
+            "Strings",
+            "Brass",
+            "Strings"
+        ]
+    },
+    {
+        "location": "12e83154d5826d3edf9bea7a40757a36.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 94,
+        "chord_summary": [
+            "G",
+            "C",
+            "F"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "1611486bc282e3fb4d238a7d768d8570.mid",
+        "genre": "classical",
+        "key": "C minor",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 129,
+        "chord_summary": [
+            "C",
+            "Cm7",
+            "C7"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "154beb427bb2225091890391cfe66a54.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 156,
+        "chord_summary": [
+            "F",
+            "G",
+            "C/G",
+            "G7",
+            "G"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Woodwinds",
+            "Brass",
+            "Woodwinds",
+            "Strings"
+        ]
+    },
+    {
+        "location": "1fb06a8f0d46d4ce856fd80fa05d4d33.mid",
+        "genre": "classical",
+        "key": "F# major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 94,
+        "chord_summary": [
+            "Ebm7",
+            "Abm6",
+            "Ebm",
+            "Faug",
+            "F#"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "198a414469f90ffa96683cb0b083be6d.mid",
+        "genre": "classical",
+        "key": "Ab major",
+        "time_signature": "4/4",
+        "tempo": 40.0,
+        "duration": 191,
+        "chord_summary": [
+            "Eb7/G",
+            "Ab",
+            "Bbm"
+        ],
+        "instrument_summary": [
+            "Organ",
+            "Strings",
+            "Woodwinds",
+            "Choir",
+            "Strings"
+        ]
+    },
+    {
+        "location": "1badc4c3aa4dd5d7ae38e56058997899.mid",
+        "genre": "classical",
+        "key": "B minor",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 110,
+        "chord_summary": [
+            "Bm",
+            "F#m",
+            "E7",
+            "Bm",
+            "Am"
+        ],
+        "instrument_summary": [
+            "Strings"
+        ]
+    },
+    {
+        "location": "1383a67e52f32781fea33f85e2af2186.mid",
+        "genre": "classical",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 230,
+        "chord_summary": [
+            "Dm",
+            "E",
+            "A",
+            "Dm",
+            "A"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "115a996da68992a3cab0539b918fb6fb.mid",
+        "genre": "classical",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 55,
+        "chord_summary": [
+            "Bb",
+            "Eb",
+            "Eb6",
+            "Bb",
+            "Eb"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Strings",
+            "Brass",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "11abc85947426364526304940e4bd3d1.mid",
+        "genre": "classical",
+        "key": "C# major",
+        "time_signature": "4/4",
+        "tempo": 200.0,
+        "duration": 186,
+        "chord_summary": [
+            "Ebm",
+            "F#m6",
+            "C#"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Strings",
+            "Brass",
+            "Acoustic Guitar",
+            "Brass"
+        ]
+    },
+    {
+        "location": "1649008b730fa15b17eb2c994d8d3bc4.mid",
+        "genre": "classical",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 209,
+        "chord_summary": [
+            "D",
+            "Em7",
+            "Am6",
+            "G"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar"
+        ]
+    },
+    {
+        "location": "166ec70e0ed906cd1e5fc0c5deee07e8.mid",
+        "genre": "classical",
+        "key": "A major",
+        "time_signature": "4/4",
+        "tempo": 190.0,
+        "duration": 160,
+        "chord_summary": [
+            "E7/G#",
+            "D/E",
+            "A"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Woodwinds",
+            "Woodwinds",
+            "Strings",
+            "Brass"
+        ]
+    },
+    {
+        "location": "15de338479659ae317f0771efc624811.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 70.0,
+        "duration": 631,
+        "chord_summary": [
+            "Dm",
+            "G7",
+            "C"
+        ],
+        "instrument_summary": [
+            "Woodwinds",
+            "Strings",
+            "Strings",
+            "Woodwinds",
+            "Strings"
+        ]
+    },
+    {
+        "location": "1c910bd93fa3c7f9fe1ebda775deced2.mid",
+        "genre": "classical",
+        "key": "Eb major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 106,
+        "chord_summary": [
+            "Fm7",
+            "Dm7",
+            "Bb7",
+            "Eb",
+            "Ddim"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "15fecec83f77b97e4f0da360147dd801.mid",
+        "genre": "classical",
+        "key": "Bb major",
+        "time_signature": "4/4",
+        "tempo": 108.0,
+        "duration": 216,
+        "chord_summary": [
+            "Bb",
+            "Eb"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Brass",
+            "Organ",
+            "Drums",
+            "Choir"
+        ]
+    },
+    {
+        "location": "149ef32051135b986d3186d841a15fd8.mid",
+        "genre": "classical",
+        "key": "C# major",
+        "time_signature": "4/4",
+        "tempo": 108.0,
+        "duration": 383,
+        "chord_summary": [
+            "C#",
+            "F#",
+            "Ab7/C",
+            "C#",
+            "Ebm"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "1f29fa6602fada3c7c102de0415b0326.mid",
+        "genre": "classical",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 82.0,
+        "duration": 146,
+        "chord_summary": [
+            "Bm",
+            "C",
+            "D",
+            "G"
+        ],
+        "instrument_summary": [
+            "Choir",
+            "Strings",
+            "Woodwinds"
+        ]
+    },
+    {
+        "location": "171f8fdb3ac2d24a25d68398ecf44d3a.mid",
+        "genre": "classical",
+        "key": "F minor",
+        "time_signature": "4/4",
+        "tempo": 42.0,
+        "duration": 126,
+        "chord_summary": [
+            "Eb",
+            "C#",
+            "Cm"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Bass",
+            "Piano",
+            "Strings",
+            "Strings"
+        ]
+    },
+    {
+        "location": "14521080f5fb2bebd38403a89afb95d7.mid",
+        "genre": "classical",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 60.0,
+        "duration": 235,
+        "chord_summary": [
+            "G",
+            "Am",
+            "F",
+            "C",
+            "Em"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Acoustic Guitar",
+            "Piano",
+            "Strings",
+            "Xylophone"
+        ]
+    },
+    {
+        "location": "1c60b2b907757206108210c9a07f8c71.mid",
+        "genre": "classical",
+        "key": "Eb major",
+        "time_signature": "4/4",
+        "tempo": 80.0,
+        "duration": 140,
+        "chord_summary": [
+            "Ab",
+            "Cm7b5/Bb",
+            "C#6",
+            "Ab",
+            "Eb"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Woodwinds",
+            "Brass",
+            "Bass",
+            "Piano"
+        ]
+    },
+    {
+        "location": "15df6dc6e0dd571a547fa4065ebf2a59.mid",
+        "genre": "classical",
+        "key": "E major",
+        "time_signature": "4/4",
+        "tempo": 132.0,
+        "duration": 229,
+        "chord_summary": [
+            "B",
+            "E",
+            "B7/D#",
+            "E"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Strings",
+            "Woodwinds",
+            "Woodwinds",
+            "Strings"
+        ]
+    },
+    {
+        "location": "128a578f76fec87ebca0d760af84a77c.mid",
+        "genre": "classical",
+        "key": "G major",
+        "time_signature": "4/4",
+        "tempo": 100.0,
+        "duration": 142,
+        "chord_summary": [
+            "C",
+            "G",
+            "D"
+        ],
+        "instrument_summary": [
+            "Acoustic Guitar",
+            "Acoustic Guitar",
+            "Bass",
+            "Drums"
+        ]
+    },
+    {
+        "location": "1c5210ffc646205b2d7532f75f101fe2.mid",
+        "genre": "classical",
+        "key": "D minor",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 140,
+        "chord_summary": [
+            "D7",
+            "Gm",
+            "A"
+        ],
+        "instrument_summary": [
+            "Piano"
+        ]
+    },
+    {
+        "location": "1488a31af8016e57683d00afd2cdcf13.mid",
+        "genre": "classical",
+        "key": "F# major",
+        "time_signature": "4/4",
+        "tempo": 240.0,
+        "duration": 152,
+        "chord_summary": [
+            "B/D#",
+            "F#",
+            "Ab/Eb",
+            "Ebm7",
+            "Bbm"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Piano",
+            "Woodwinds",
+            "Strings",
+            "Strings"
+        ]
+    },
+    {
+        "location": "1fa99d2b443013337ff10f7fe8170dac.mid",
+        "genre": "classical",
+        "key": "C major",
+        "time_signature": "4/4",
+        "tempo": 120.0,
+        "duration": 174,
+        "chord_summary": [
+            "C",
+            "Dm",
+            "G",
+            "C",
+            "F"
+        ],
+        "instrument_summary": [
+            "Strings",
+            "Piano",
+            "Choir",
+            "Strings",
+            "Organ"
+        ]
+    }
+]
