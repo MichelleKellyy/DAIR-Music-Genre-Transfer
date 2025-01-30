@@ -3,6 +3,7 @@ from torch import nn
 import torch.nn.functional as F
 from adversarial_classifier import AdversarialClassifier
 from losses import A_loss
+from lstm import EncoderLSTM,DecoderLSTM
 
 
 class DownsampleBlock(nn.Module):
@@ -54,6 +55,7 @@ class Encoder(nn.Module):
 
         self.latent_dim = args.latent_dim
 
+        self.lstm = EncoderLSTM()
         self.proj = nn.Conv2d(20, 64, kernel_size=1)
         self.block1 = DownsampleBlock(64, 128, kernel_size=3)
         self.block2 = DownsampleBlock(128, 256, kernel_size=3)
@@ -61,8 +63,6 @@ class Encoder(nn.Module):
         self.block4 = DownsampleBlock(512, 1024, kernel_size=3)
 
         self.global_max_pooling = nn.AdaptiveMaxPool2d(output_size=(1, 1))
-
-        self.lstm = nn.LSTM(input_size=1024, hidden_size=512, num_layers=1, batch_first=True)
 
         self.fc_mu = nn.Linear(1024, self.latent_dim)
         self.fc_sigma = nn.Linear(1024, self.latent_dim)
@@ -75,11 +75,10 @@ class Encoder(nn.Module):
         x = self.block4(x)
         x = self.global_max_pooling(x)
 
-        _, (hid_state, _) = self.lstm(x)
-        hid_state = hid_state[-1]
+        x = self.lstm(x)
 
-        mu = self.fc_mu(hid_state)
-        sigma = self.fc_sigma(hid_state)
+        mu = self.fc_mu(x)
+        sigma = self.fc_sigma(x)
 
         return mu, sigma
 
@@ -90,8 +89,7 @@ class Decoder(nn.Module):
 
         self.latent_dim = args.latent_dim
 
-        self.lstm = nn.LSTM(input_size=512, hidden_size=1024, num_layers=1, batch_first=True)
-
+        self.lstm = DecoderLSTM()
         self.proj1 = nn.Linear(self.latent_dim, 16 * 16)
         self.proj2 = nn.Conv2d(1, 1024, kernel_size=1)
 
@@ -104,8 +102,7 @@ class Decoder(nn.Module):
 
  
     def forward(self, x):
-        hid_state = x.unsqueeze(1).repeat(1, self.seq_len, 1)
-        out, _ = self.lstm(x)
+        x = self.lstm(x)
 
         x = F.relu(self.proj1(x))
         x = F.relu(self.proj2(x))
