@@ -1,5 +1,7 @@
 import torch
 from torch import nn
+from losses import A_loss
+from adversarial_classifier import AdversarialClassifier
 
 class EncoderLSTM(nn.Module):
     def __init__(self, input_size, hidden_size, num_layers=1):
@@ -30,3 +32,24 @@ class DecoderLSTM(nn.Module):
         z = z.unsqueeze(1).repeat(1, self.seq_len, 1)
         out, _ = self.lstm(z)
         return out
+    
+class VAE(nn.Module):
+    def __init__(self, args):
+        super(VAE, self).__init__()
+        self.latent_dim = args.latent_dim
+
+        self.encoder = EncoderLSTM(args)
+        self.adversarial = AdversarialClassifier()
+        self.decoder = DecoderLSTM(args)
+
+    def forward(self, x):
+        A_loss(x)
+        mean, log_var = self.encoder(x)
+
+        sample = torch.randn(self.latent_dim).to(x.get_device())
+        std = (0.5 * log_var).exp()
+        z = mean + std * sample
+
+        x = self.decoder(z)
+
+        return x, mean, log_var

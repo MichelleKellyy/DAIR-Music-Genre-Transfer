@@ -113,25 +113,3 @@ class Decoder(nn.Module):
         x = self.out(x)
 
         return torch.sigmoid(x)
-
-
-class VAE(nn.Module):
-    def __init__(self, args):
-        super(VAE, self).__init__()
-        self.latent_dim = args.latent_dim
-
-        self.encoder = Encoder(args)
-        self.adversarial = AdversarialClassifier()
-        self.decoder = Decoder(args)
-
-    def forward(self, x):
-        A_loss(x)
-        mean, log_var = self.encoder(x)
-
-        sample = torch.randn(self.latent_dim).to(x.get_device())
-        std = (0.5 * log_var).exp()
-        z = mean + std * sample
-
-        x = self.decoder(z)
-
-        return x, mean, log_var
