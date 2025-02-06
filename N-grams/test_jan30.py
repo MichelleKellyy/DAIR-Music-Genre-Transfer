@@ -9,7 +9,7 @@ from collections import Counter
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics import precision_recall_fscore_support
 
-##added more features to attempt to improve accuracy --> made a counter list instead of only looking at pitch
+#added more features to attempt to improve accuracy --> made a counter list instead of only looking at pitch
 def extract_ngram(midi_file, n):
     try:
         score = music21.converter.parse(midi_file) #parsing the midi file
