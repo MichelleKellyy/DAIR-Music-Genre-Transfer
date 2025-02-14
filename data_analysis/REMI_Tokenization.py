@@ -28,7 +28,6 @@ midi_paths = list(Path("./dataset").glob('*.mid'))
 
 # Train the tokenizer (BPE)
 tokenizer.train(vocab_size=30000, model="BPE", files_paths=midi_paths)
-tokenizer.save("tokenizer.json")
 
-# Tokenize a MIDI file
-tokens = tokenizer(midi_paths)  # Testing one midi file for now
+# Tokenize a MIDI dataset
+tokenizer.tokenize_dataset(midi_paths, "./tokenized_dataset")
