@@ -3,7 +3,7 @@ from torch import nn
 import torch.nn.functional as F
 
 class AdversarialClassifier(nn.Module):
-    def __init__(self, num_genres, latent_dim, hidden_dim=128):
+    def __init__(self, num_genres, latent_dim, hidden_dim):
         super(AdversarialClassifier, self).__init__()
         self.fc1 = nn.Linear(latent_dim, hidden_dim)
         self.fc2 = nn.Linear(hidden_dim, hidden_dim)

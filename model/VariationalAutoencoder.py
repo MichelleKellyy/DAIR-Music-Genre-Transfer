@@ -1,10 +1,13 @@
+import sys
+import os
 import torch
 from torch import nn
 import torch.nn.functional as F
-from adversarial_classifier import AdversarialClassifier
-from losses import A_loss
-from lstm import EncoderLSTM,DecoderLSTM
+from .adversarial_classifier import AdversarialClassifier
+from .lstm import EncoderLSTM,DecoderLSTM
 
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from losses import A_loss
 
 class DownsampleBlock(nn.Module):
     """Basic residual CNN downsampling block for Encoder class"""

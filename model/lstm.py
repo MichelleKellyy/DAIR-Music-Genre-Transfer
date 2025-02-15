@@ -1,10 +1,14 @@
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 import torch
 from torch import nn
+from .adversarial_classifier import AdversarialClassifier
 from losses import A_loss
-from adversarial_classifier import AdversarialClassifier
 
 class EncoderLSTM(nn.Module):
-    def __init__(self, input_size, hidden_size, num_layers=1):
+    def __init__(self, input_size, hidden_size, num_layers):
         super(EncoderLSTM, self).__init__()
         self.input_size = input_size
         self.hidden_size = hidden_size
@@ -19,7 +23,7 @@ class EncoderLSTM(nn.Module):
         return hid_state
     
 class DecoderLSTM(nn.Module):
-    def __init__(self, input_size, hidden_size, num_layers=1, seq_len):
+    def __init__(self, input_size, hidden_size, num_layers, seq_len=4319):
         super(DecoderLSTM, self).__init__()
         self.input_size = input_size
         self.hidden_size = hidden_size
@@ -38,9 +42,9 @@ class VAE(nn.Module):
         super(VAE, self).__init__()
         self.latent_dim = args.latent_dim
 
-        self.encoder = EncoderLSTM(args)
-        self.adversarial = AdversarialClassifier()
-        self.decoder = DecoderLSTM(args)
+        self.encoder = EncoderLSTM(input_size=128, hidden_size=128, num_layers=1)
+        self.adversarial = AdversarialClassifier(num_genres=3, latent_dim=128, hidden_dim=128)
+        self.decoder = DecoderLSTM(input_size=128, hidden_size=128, num_layers=1)
 
     def forward(self, x):
         A_loss(x)

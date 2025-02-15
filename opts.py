@@ -8,38 +8,43 @@ parser = argparse.ArgumentParser()
 parser.add_argument(
     '--exp_name',
     type=str,
+    default='sample_experiment',
     help="Experiment name"
 )
 
 parser.add_argument(
     '--mode',
     type=str,
-    choices=['train', 'test'],
+    #choices=['train', 'test'],
+    default='train',
     help="Whether to train or test"
 )
 
 parser.add_argument(
     '--n_epochs',
     type=int,
+    default=100,
     help="The number of training epochs"
 )
 
 parser.add_argument(
     '--lr',
     type=float,
+    default=0.001,
     help="The learning rate for training"
 )
 
 parser.add_argument(
     '--batch_size',
     type=int,
+    default=32,
     help="Training batch size"
 )
 
 parser.add_argument(
     '--checkpoint_dir',
     type=str,
-    default="./checkpoints",
+    default="C:/Users/Miche/Downloads/checkpoints",
     help="Directory for saving/loading checkpoints"
 )
 
@@ -55,13 +60,15 @@ parser.add_argument(
 parser.add_argument(
     '--model',
     type=str,
-    choices=['VAE'],
+    #choices=['VAE'],
+    default='VAE',
     help="Model type"
 )
 
 parser.add_argument(
     '--latent_dim',
     type=int,
+    default=128,
     help="Number of dimensions for VAE latent space"
 )
 
@@ -70,7 +77,8 @@ parser.add_argument(
 parser.add_argument(
     '--dataset',
     type=str,
-    choices=['piano_roll'],
+    #choices=['piano_roll'],
+    default='piano_roll',
     help="Dataset to use"
 )
 
