@@ -85,6 +85,7 @@ parser.add_argument(
 parser.add_argument(
     '--data_dir',
     type=str,
+    default="C:/Users/Miche/Downloads/Piano_Rolls0/Piano_Rolls0",
     help="Path to data root directory"
 )
 
