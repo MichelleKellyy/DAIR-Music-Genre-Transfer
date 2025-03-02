@@ -5,36 +5,43 @@ import os
 from opts import args
 from model import get_model
 from dataset import get_dataset
-import losses
+from losses import VAE_loss, A_loss
 
 
 def train():
     model.train()
     best_val_loss = float('inf')
     for epoch in range(args.n_epochs):
-        total_loss = 0
+        total_vae_loss = 0
+        total_adversarial_loss = 0
         for itr, data in enumerate(train_dataloader):
             # Get data from dataloader
-            y = data
+            y, genre = data
             y = y.to(device)
+            genre = genre.to(device)
             y.requires_grad = True
 
             # Forward pass
             y_pred, mean, log_var = model(y)
+            genre_pred = model.adversarial_classifier(mean)
 
             # Calculate loss
-            loss = losses.VAE_loss(y_pred, y, mean, log_var)
-            total_loss += loss.item()
+            vae_loss = VAE_loss(y_pred, y, mean, log_var)
+            adversarial_loss = A_loss(genre_pred, genre) 
+            loss = vae_loss + adversarial_loss
+            total_vae_loss += vae_loss.item()
+            total_adversarial_loss += adversarial_loss.item()
 
             # Backward pass
             loss.backward()
             optimizer.step()
 
             # Print training stats
-            display_step = 500
+            display_step = 10
             if itr and itr % display_step == 0:
-                print(f"Epoch: {epoch} [{itr}/{len(train_dataloader)}] \t Loss: {total_loss / display_step}")
-                total_loss = 0
+                print(f"Epoch: {epoch} [{itr}/{len(train_dataloader)}] \t VAE Loss: {total_vae_loss / display_step} \t Adversarial Loss: {total_adversarial_loss / display_step}")
+                total_vae_loss = 0
+                total_adversarial_loss = 0
 
         # Validate
         val_loss = val()
@@ -53,15 +60,18 @@ def val():
     total_loss = 0
     for itr, data in enumerate(val_dataloader):
         # Get data from dataloader
-        y = data
+        y, genre = data
         y = y.to(device)
+        genre = genre.to(device)
 
         # Forward pass
         with torch.no_grad():
             y_pred, mean, log_var = model(y)
+            genre_pred = model.adversarial_classifier(mean)
         
         # Calculate loss
-        loss = losses.VAE_loss(y_pred, y, mean, log_var)
+        vae_loss = VAE_loss(y_pred, y, mean, log_var)
+        adversarial_loss = A_loss(genre_pred, genre)
         total_loss += loss.item()
 
     print(f"Val Loss: {total_loss / len(val_dataloader)}")
@@ -69,6 +79,7 @@ def val():
 
 def test():
     model.eval()
+    total_loss = 0
     for itr, data in enumerate(test_dataloader):
         # Get data from dataloader
         y = data
@@ -77,13 +88,15 @@ def test():
         # Forward pass
         with torch.no_grad():
             y_pred, mean, log_var = model(y)
+            genre_pred = model.adversarial_classifier(mean)
         
         # Calculate loss
-        loss = losses.VAE_loss(y_pred, y, mean, log_var)
-        total_loss += loss.item()
+        vae_loss = VAE_loss(y_pred, y, mean, log_var)
+        adversarial_loss = A_loss(mean, label)
+        loss = vae_loss + adversarial_loss
+        total_loss += loss.item() / len(test_dataloader)
 
-        # Calculate metrics
-        ...
+    print("Total loss:", total_loss)
 
 
 if __name__ == '__main__':

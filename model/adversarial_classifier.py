@@ -2,6 +2,8 @@ import torch
 from torch import nn
 import torch.nn.functional as F
 
+from .gradient_reversal import GradientReversalLayer
+
 class AdversarialClassifier(nn.Module):
     def __init__(self, num_genres, latent_dim, hidden_dim):
         super(AdversarialClassifier, self).__init__()
@@ -11,7 +13,8 @@ class AdversarialClassifier(nn.Module):
         self.dropout = nn.Dropout(0.3)
 
     def forward(self,z):
-        x = F.relu(self.fc1(z))
+        x = GradientReversalLayer.apply(z)
+        x = F.relu(self.fc1(x))
         x = self.dropout(x)
         x = F.relu(self.fc2(x))
         x = self.dropout(x)

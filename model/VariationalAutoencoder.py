@@ -4,7 +4,6 @@ import torch
 from torch import nn
 import torch.nn.functional as F
 from .adversarial_classifier import AdversarialClassifier
-from .lstm import EncoderLSTM,DecoderLSTM
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from losses import A_loss
@@ -37,10 +36,10 @@ class UpsampleBlock(nn.Module):
 
         self.left1 = nn.ConvTranspose2d(in_channels, in_channels, kernel_size, padding=kernel_size // 2)
         self.bn1 = nn.BatchNorm2d(in_channels)
-        self.left2 = nn.ConvTranspose2d(in_channels, out_channels, kernel_size, stride=2, padding=kernel_size // 2)
+        self.left2 = nn.ConvTranspose2d(in_channels, out_channels, kernel_size, stride=2, padding=kernel_size // 2, output_padding=1)
         self.bn2 = nn.BatchNorm2d(out_channels)
 
-        self.right = nn.ConvTranspose2d(in_channels, out_channels, kernel_size, stride=2, padding=kernel_size // 2)
+        self.right = nn.ConvTranspose2d(in_channels, out_channels, kernel_size, stride=2, padding=kernel_size // 2, output_padding=1)
 
     def forward(self, x):
         x_left = F.relu(self.bn1(self.left1(x)))
@@ -58,8 +57,7 @@ class Encoder(nn.Module):
 
         self.latent_dim = args.latent_dim
 
-        self.lstm = EncoderLSTM()
-        self.proj = nn.Conv2d(20, 64, kernel_size=1)
+        self.proj = nn.Conv2d(5, 64, kernel_size=1)
         self.block1 = DownsampleBlock(64, 128, kernel_size=3)
         self.block2 = DownsampleBlock(128, 256, kernel_size=3)
         self.block3 = DownsampleBlock(256, 512, kernel_size=3)
@@ -76,9 +74,7 @@ class Encoder(nn.Module):
         x = self.block2(x)
         x = self.block3(x)
         x = self.block4(x)
-        x = self.global_max_pooling(x)
-
-        x = self.lstm(x)
+        x = self.global_max_pooling(x).reshape(-1, 1024)
 
         mu = self.fc_mu(x)
         sigma = self.fc_sigma(x)
@@ -92,8 +88,7 @@ class Decoder(nn.Module):
 
         self.latent_dim = args.latent_dim
 
-        self.lstm = DecoderLSTM()
-        self.proj1 = nn.Linear(self.latent_dim, 16 * 16)
+        self.proj1 = nn.Linear(self.latent_dim, 8 * 256)
         self.proj2 = nn.Conv2d(1, 1024, kernel_size=1)
 
         self.block1 = UpsampleBlock(1024, 512, kernel_size=3)
@@ -101,13 +96,11 @@ class Decoder(nn.Module):
         self.block3 = UpsampleBlock(256, 128, kernel_size=3)
         self.block4 = UpsampleBlock(128, 64, kernel_size=3)
 
-        self.out = nn.Conv2d(64, 20, kernel_size=1)
+        self.out = nn.Conv2d(64, 5, kernel_size=1)
 
  
     def forward(self, x):
-        x = self.lstm(x)
-
-        x = F.relu(self.proj1(x))
+        x = F.relu(self.proj1(x)).reshape(-1, 1, 8, 256)
         x = F.relu(self.proj2(x))
         x = self.block1(x)
         x = self.block2(x)
@@ -116,3 +109,22 @@ class Decoder(nn.Module):
         x = self.out(x)
 
         return torch.sigmoid(x)
+
+
+class VAE(nn.Module):
+    def __init__(self, args):
+        super(VAE, self).__init__()
+        self.latent_dim = args.latent_dim
+        self.encoder = Encoder(args)
+        self.adversarial_classifier = AdversarialClassifier(num_genres=5, latent_dim=128, hidden_dim=128)
+        self.decoder = Decoder(args)
+
+    def forward(self, x):
+        mean, log_var = self.encoder(x)
+        sample = torch.randn(self.latent_dim).to(x.get_device())
+        std = (0.5 * log_var).exp()
+        z = mean + std * sample
+
+        x = self.decoder(z)
+
+        return x, mean, log_var

@@ -30,7 +30,7 @@ parser.add_argument(
 parser.add_argument(
     '--lr',
     type=float,
-    default=0.001,
+    default=0.000001,
     help="The learning rate for training"
 )
 
