@@ -3,10 +3,9 @@ import os
 import torch
 from torch import nn
 import torch.nn.functional as F
-from .adversarial_classifier import AdversarialClassifier
+from .genre_classifier import GenreClassifier
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from losses import A_loss
 
 class DownsampleBlock(nn.Module):
     """Basic residual CNN downsampling block for Encoder class"""
@@ -65,8 +64,16 @@ class Encoder(nn.Module):
 
         self.global_max_pooling = nn.AdaptiveMaxPool2d(output_size=(1, 1))
 
-        self.fc_mu = nn.Linear(1024, self.latent_dim)
-        self.fc_sigma = nn.Linear(1024, self.latent_dim)
+        self.fc_mu = nn.Sequential(
+            nn.Linear(1024, 512),
+            nn.ReLU(),
+            nn.Linear(512, self.latent_dim * 2)
+        )
+        self.fc_sigma = nn.Sequential(
+            nn.Linear(1024, 512),
+            nn.ReLU(),
+            nn.Linear(512, self.latent_dim * 2)
+        )
 
     def forward(self, x):
         x = F.relu(self.proj(x))
@@ -76,10 +83,10 @@ class Encoder(nn.Module):
         x = self.block4(x)
         x = self.global_max_pooling(x).reshape(-1, 1024)
 
-        mu = self.fc_mu(x)
-        sigma = self.fc_sigma(x)
+        mu_genre, mu_instance = self.fc_mu(x).reshape(-1, 2, self.latent_dim).transpose(0, 1)
+        sigma_genre, sigma_instance = self.fc_sigma(x).reshape(-1, 2, self.latent_dim).transpose(0, 1)
 
-        return mu, sigma
+        return mu_genre, sigma_genre, mu_instance, sigma_instance
 
 
 class Decoder(nn.Module):
@@ -88,7 +95,7 @@ class Decoder(nn.Module):
 
         self.latent_dim = args.latent_dim
 
-        self.proj1 = nn.Linear(self.latent_dim, 8 * 256)
+        self.proj1 = nn.Linear(2 * self.latent_dim, 8 * 64)#256)
         self.proj2 = nn.Conv2d(1, 1024, kernel_size=1)
 
         self.block1 = UpsampleBlock(1024, 512, kernel_size=3)
@@ -100,7 +107,7 @@ class Decoder(nn.Module):
 
  
     def forward(self, x):
-        x = F.relu(self.proj1(x)).reshape(-1, 1, 8, 256)
+        x = F.relu(self.proj1(x)).reshape(-1, 1, 8, 64)#256)
         x = F.relu(self.proj2(x))
         x = self.block1(x)
         x = self.block2(x)
@@ -116,15 +123,20 @@ class VAE(nn.Module):
         super(VAE, self).__init__()
         self.latent_dim = args.latent_dim
         self.encoder = Encoder(args)
-        self.adversarial_classifier = AdversarialClassifier(num_genres=5, latent_dim=128, hidden_dim=128)
+        self.genre_classifier = GenreClassifier(num_genres=5, latent_dim=128, hidden_dim=128)
         self.decoder = Decoder(args)
 
     def forward(self, x):
-        mean, log_var = self.encoder(x)
-        sample = torch.randn(self.latent_dim).to(x.get_device())
-        std = (0.5 * log_var).exp()
-        z = mean + std * sample
+        mean_genre, log_var_genre, mean_instance, log_var_instance = self.encoder(x)
+        sample_genre = torch.randn(self.latent_dim).to(x.get_device())
+        sample_instance = torch.randn(self.latent_dim).to(x.get_device())
+        std_genre = (0.5 * log_var_genre).exp()
+        std_instance = (0.5 * log_var_instance).exp()
+        z_genre = mean_genre + std_genre * sample_genre
+        z_instance = mean_instance + std_instance * sample_instance
+
+        z = torch.cat((z_genre, z_instance), dim=-1)
 
         x = self.decoder(z)
 
-        return x, mean, log_var
+        return x, mean_genre, log_var_genre, mean_instance, log_var_instance

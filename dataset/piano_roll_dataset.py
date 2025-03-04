@@ -102,7 +102,7 @@ class PianoRollDataset(Dataset):
 
     def __getitem__(self, idx):
         # return shape: (n_instruments, n_notes, total_duration)
-        duration = 4096
+        duration = 1024#4096
         piano_roll = torch.zeros((5, 128, duration))
         
         file_path = self.file_paths[idx]

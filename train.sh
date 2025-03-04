@@ -1,1 +1,1 @@
-python main.py --exp_name "20250302_test" --mode "train" --data_dir "/home/stuart/Downloads/Piano Rolls" --batch_size 1
+python main.py --exp_name "20250302_test" --mode "train" --data_dir "/home/stuart/Downloads/Piano Rolls" --batch_size 4
