@@ -102,7 +102,7 @@ class PianoRollDataset(Dataset):
 
     def __getitem__(self, idx):
         # return shape: (n_instruments, n_notes, total_duration)
-        duration = 1024#4096
+        duration = 512#4096
         piano_roll = torch.zeros((5, 128, duration))
         
         file_path = self.file_paths[idx]
@@ -139,6 +139,10 @@ class PianoRollDataset(Dataset):
                 )
 
         midi_name = os.path.basename(file_path)
-        genre = self.genre_indices.index(self.genres[midi_name])
 
-        return piano_roll, genre
+        try:
+            genre = self.genre_indices.index(self.genres[midi_name])
+            return piano_roll, genre
+        except KeyError:
+            print(f"Warning: No genre found for {midi_name}, skipping")
+        return self.getitem((idx + 1) % len(self))

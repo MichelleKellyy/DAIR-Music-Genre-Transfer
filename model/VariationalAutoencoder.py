@@ -95,7 +95,7 @@ class Decoder(nn.Module):
 
         self.latent_dim = args.latent_dim
 
-        self.proj1 = nn.Linear(2 * self.latent_dim, 8 * 64)#256)
+        self.proj1 = nn.Linear(2 * self.latent_dim, 8 * 32)#256)
         self.proj2 = nn.Conv2d(1, 1024, kernel_size=1)
 
         self.block1 = UpsampleBlock(1024, 512, kernel_size=3)
@@ -107,7 +107,7 @@ class Decoder(nn.Module):
 
  
     def forward(self, x):
-        x = F.relu(self.proj1(x)).reshape(-1, 1, 8, 64)#256)
+        x = F.relu(self.proj1(x)).reshape(-1, 1, 8, 32)#256)
         x = F.relu(self.proj2(x))
         x = self.block1(x)
         x = self.block2(x)
