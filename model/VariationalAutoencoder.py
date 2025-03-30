@@ -62,7 +62,7 @@ class Encoder(nn.Module):
         self.block3 = DownsampleBlock(256, 512, kernel_size=3)
         self.block4 = DownsampleBlock(512, 1024, kernel_size=3)
 
-        self.global_max_pooling = nn.AdaptiveMaxPool2d(output_size=(1, 1))
+        self.global_avg_pooling = nn.AdaptiveAvgPool2d(output_size=(1, 1))
 
         self.fc_mu = nn.Sequential(
             nn.Linear(1024, 512),
@@ -81,7 +81,7 @@ class Encoder(nn.Module):
         x = self.block2(x)
         x = self.block3(x)
         x = self.block4(x)
-        x = self.global_max_pooling(x).reshape(-1, 1024)
+        x = self.global_avg_pooling(x).reshape(-1, 1024)
 
         mu_genre, mu_instance = self.fc_mu(x).reshape(-1, 2, self.latent_dim).transpose(0, 1)
         sigma_genre, sigma_instance = self.fc_sigma(x).reshape(-1, 2, self.latent_dim).transpose(0, 1)
