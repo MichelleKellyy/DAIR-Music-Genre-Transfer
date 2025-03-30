@@ -4,11 +4,11 @@ import torch.nn.functional as F
 
 def VAE_loss(y_pred, y, mean_genre, log_var_genre, mean_instance, log_var_instance):
     batch_size = y.shape[0]
-    bce = F.binary_cross_entropy(y_pred, y, reduction='sum') / y.numel()
+    ce = F.cross_entropy(y_pred.reshape(y.numel(), -1), y.reshape(-1), reduction='sum') / y.numel()
     kl_divergence_genre = 0.5 * torch.sum(log_var_genre.exp() + mean_genre ** 2 - log_var_genre - 1) / mean_genre.numel()
     kl_divergence_instance = 0.5 * torch.sum(log_var_instance.exp() + mean_instance ** 2 - log_var_instance - 1) / mean_instance.numel()
 
-    return (bce + kl_divergence_genre + kl_divergence_instance)
+    return (ce + kl_divergence_genre + kl_divergence_instance)
 
 def shuffle(mean_genre):
     n = mean_genre.shape[0]
@@ -23,5 +23,5 @@ def adversarial_loss(logits, t_labels):
     return loss
 
 def classification_loss(logits, t_labels):
-    loss = F.cross_entropy(logits, t_labels) 
+    loss = F.cross_entropy(logits, t_labels.reshape(-1))
     return loss

@@ -21,7 +21,7 @@ def train():
             # Get data from dataloader
             y, genre = data
             y = y.to(device)
-            genre = genre.to(device)
+            genre = genre.reshape(-1).to(device)
 
 
             ### Train discriminator
