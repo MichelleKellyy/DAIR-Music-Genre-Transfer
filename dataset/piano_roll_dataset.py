@@ -120,9 +120,6 @@ class PianoRollDataset(Dataset):
                 ), shape=data[f"pianoroll_0_csc_shape"]).toarray().T
 
                 # Normalize
-                if single_piano_roll.max() > 255:
-                    print(single_piano_roll.max())
-                    quit()
                 single_piano_roll = single_piano_roll / 255
 
                 # Padding / cropping

@@ -77,8 +77,8 @@ parser.add_argument(
 parser.add_argument(
     '--dataset',
     type=str,
-    #choices=['piano_roll'],
-    default='piano_roll',
+    choices=['piano_roll', 'REMI'],
+    default='REMI',
     help="Dataset to use"
 )
 
