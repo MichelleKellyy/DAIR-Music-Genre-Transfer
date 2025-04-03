@@ -23,7 +23,7 @@ parser.add_argument(
 parser.add_argument(
     '--n_epochs',
     type=int,
-    default=100,
+    default=4,
     help="The number of training epochs"
 )
 
@@ -37,14 +37,14 @@ parser.add_argument(
 parser.add_argument(
     '--batch_size',
     type=int,
-    default=32,
+    default=1,
     help="Training batch size"
 )
 
 parser.add_argument(
     '--checkpoint_dir',
     type=str,
-    default="C:/Users/Miche/Downloads/checkpoints",
+    default="C:/Users/Miche/Downloads/REMI_TEST_CHECKPOINTS",
     help="Directory for saving/loading checkpoints"
 )
 
@@ -60,8 +60,8 @@ parser.add_argument(
 parser.add_argument(
     '--model',
     type=str,
-    #choices=['VAE'],
-    default='VAE',
+    #choices=['VAE, LSTM'],
+    default='LSTM',
     help="Model type"
 )
 
@@ -85,7 +85,7 @@ parser.add_argument(
 parser.add_argument(
     '--data_dir',
     type=str,
-    default="C:/Users/Miche/Downloads/Piano_Rolls0/Piano_Rolls0",
+    default="C:/Users/Miche/Desktop/SMGT/midi_dataset",
     help="Path to data root directory"
 )
 

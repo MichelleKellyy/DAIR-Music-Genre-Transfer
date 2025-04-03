@@ -29,11 +29,7 @@ class REMIDataset(Dataset):
         with open('dataset/dataset.json', 'r') as f:
             genres = json.load(f)
 
-        def get_label(score, seq, file_path):
-            genre_indices = ["electronic", "pop", "classical", "rock"]
-            return genre_indices.index(genres[os.path.basename(file_path)])
-
-        tokenizer = REMI(params="dataset/tokenizer.json")
+        tokenizer = REMI(params="C:/Users/Miche/Desktop/SMGT/tokenizer_12.json")
 
         self.dataset = DatasetMIDI(
             files_paths=self.file_paths,
@@ -41,8 +37,15 @@ class REMIDataset(Dataset):
             max_seq_len=1024,
             bos_token_id=tokenizer["BOS_None"],
             eos_token_id=tokenizer["EOS_None"],
-            func_to_get_labels=get_label
+            func_to_get_labels=self.get_label
         )
+
+    def get_label(self, score, seq, file_path):
+        with open('dataset/dataset.json', 'r') as f:
+            genres = json.load(f)
+
+        genre_indices = ["electronic", "pop", "classical", "rock"]
+        return genre_indices.index(genres[os.path.basename(file_path)])
 
     def __len__(self):
         return len(self.file_paths)
