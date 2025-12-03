@@ -2,6 +2,7 @@
 Exploring the use of machine learning and music information retrieval for instrument-specific symbolic music genre transfer 
 
 ## Repository Structure
+```text
 ├── model/                    # VAE, LSTM encoder/decoder, adversarial classifier
 ├── dataset/                  # Data loading, piano roll processing
 ├── losses.py                 # VAE and adversarial loss functions
@@ -10,6 +11,7 @@ Exploring the use of machine learning and music information retrieval for instru
 ├── opts.py                   # Argument parsing and experiment configuration
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Documentation
+```
 
 ## My Contributions
 ### Model Architecture
